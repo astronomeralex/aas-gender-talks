@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 import astropy
 import astropy.io.ascii as ascii
 import collections
+import scipy
+import scipy.misc
 from scipy import stats
 
 def count_mf_questions(data_in):
@@ -107,15 +109,6 @@ get_errors_on_ratio(pos_numbers)
 np.set_printoptions(precision=3)
 np.set_printoptions(suppress=True)
 print pos_numbers
-
-
-# get binomial errors where approximation does not work (i.e. where p approaches 0 or 1)
-i=0
-N = pos_numbers[i,0] + pos_numbers[i,1]
-k = pos_numbers[i,0]
-p_est = pos_numbers[i,0]/(pos_numbers[i,0] + pos_numbers[i,1])
-likelihood = scipy.misc.comb(N, k)
-
 
 
 plt.clf()
