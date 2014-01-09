@@ -5,6 +5,18 @@ import matplotlib.pyplot as plt
 import astropy
 import astropy.io.ascii as ascii
 
+def count_mf_questions(data_in):
+  N_m = 0
+  N_f = 0
+  
+  for i in np.arange(0, len(data)):
+    N_m = N_m + data['questions'][i].count('M')
+    N_f = N_f + data['questions'][i].count('F')
+  
+  return (N_f, N_m)
+
+
+
 
 data = ascii.read('data.csv')
 
@@ -43,18 +55,20 @@ print "Talk ratio f/m: ", np.float(len(data[data['speaker']=='F']))/len(data[dat
 
 # count female/male questions:
 
-N_m = 0
-N_f = 0
-
-for i in np.arange(0, len(data)):
-  N_m = N_m + data['questions'][i].count('M')
-  N_f = N_f + data['questions'][i].count('F')
+(N_f, N_m) = count_mf_questions(data)
 
 print "Number of questions asked by men: ", N_m
 print "Number of questions asked by women: ", N_f
-print "Ratio f/m: ", np.float(N_f)/N_m
+print "Questions ratio f/m: ", np.float(N_f)/N_m
+
+# questions ratio for talks given by women/men individually
+f_talks = data['speaker'] == 'F'
+m_talks = data['speaker'] == 'M'
 
 
+
+
+# find out at which position in the talk queue wome and men typically ask their question
 
 
 
