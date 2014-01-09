@@ -91,9 +91,23 @@ print "Three-Gram MFF:", tgmff, "(%.1f"%(float(tgmff)/tgtotal*100) + "%);", "Exp
 print "Three-Gram FMF:", tgfmf, "(%.1f"%(float(tgfmf)/tgtotal*100) + "%);", "Expected:", int(round(tgtotal*mfraction* ffraction**2))
 print "Three-Gram FFM:", tgffm, "(%.1f"%(float(tgffm)/tgtotal*100) + "%);", "Expected:", int(round(tgtotal*mfraction* ffraction**2))
 print "Three-Gram FFF:", tgfff, "(%.1f"%(float(tgfff)/tgtotal*100) + "%);", "Expected:", int(round(tgtotal*ffraction**3))
+print
 
-
-
-
+#talks with only one question
+singleq = ''
+sqnum = 0
+for i in data["questions"]:
+    if len(i) == 1:
+        singleq = singleq + i
+        sqnum += 1
+        
+msq = singleq.count("M")
+msqfrac = float(msq) / sqnum
+fsq = singleq.count("F")
+fsqfrac = float(fsq) / sqnum
+print "Talks with Only One Question:", sqnum
+print "Male:", msq, "(%.1f"%(msqfrac*100) + "%)"
+print "Female:", fsq, "(%.1f"%(fsqfrac*100) + "%)"
+print
 
 
