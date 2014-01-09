@@ -106,13 +106,44 @@ def get_errors_on_ratio(pos_numbers):
 
 get_errors_on_ratio(pos_numbers)
 
+# I did a booboo somewhere and the last line of pos_numbers is empty. Delete it.
+pos_numbers = pos_numbers[0:-1]
+
+# get binomial errors where approximation does not work (i.e. where p approaches 0 or 1)
+# yes, quick and ugly.
+i=7
+N = pos_numbers[i,0] + pos_numbers[i,1]
+k = pos_numbers[i,0]
+p_est = pos_numbers[i,0]/(pos_numbers[i,0] + pos_numbers[i,1])
+p_est = np.arange(0.01,0.99, 0.01)
+likelihood = scipy.misc.comb(N, k) * p_est**k * (1-p_est)**(N-k)
+maxi = np.max(np.log(likelihood))
+i_near = np.where(np.abs(np.log(likelihood) - maxi) < 1.)[0]
+high = np.max(p_est[i_near])
+pos_numbers[i, 3] = 0.
+pos_numbers[i, 4] = high
+
+others = np.array([0,1,2,3,4,5,6,8])
+for i in others:
+  N = pos_numbers[i,0] + pos_numbers[i,1]
+  k = pos_numbers[i,0]
+  p_est = pos_numbers[i,0]/(pos_numbers[i,0] + pos_numbers[i,1])
+  p_est = np.arange(0.01,0.99, 0.01)
+  likelihood = scipy.misc.comb(N, k) * p_est**k * (1-p_est)**(N-k)
+  maxi = np.max(np.log(likelihood))
+  i_near = np.where(np.abs(np.log(likelihood) - maxi) < 0.5)[0]
+  low = np.min(p_est[i_near])
+  high = np.max(p_est[i_near])
+  pos_numbers[i, 3] = low
+  pos_numbers[i, 4] = high
+
+
 np.set_printoptions(precision=3)
 np.set_printoptions(suppress=True)
-#print pos_numbers
-
+print pos_numbers
 
 plt.clf()
-plt.errorbar(np.arange(1, N_max+1), pos_numbers.transpose()[2], yerr=(pos_numbers.transpose()[2]-pos_numbers.transpose()[3], pos_numbers.transpose()[4]-pos_numbers.transpose()[2]), lw=2 )
+plt.errorbar(np.arange(1, N_max), pos_numbers.transpose()[2], yerr=(pos_numbers.transpose()[2]-pos_numbers.transpose()[3], pos_numbers.transpose()[4]-pos_numbers.transpose()[2]), lw=2 )
 plt.xlabel('Position in queue of questions', fontsize=14)
 plt.ylabel('Gender ratio f/(m+f)', fontsize=14)
 plt.axis([0, 11, -0.25, 1])

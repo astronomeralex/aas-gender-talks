@@ -5,6 +5,7 @@ import astropy.io.ascii as ascii
 import collections
 from scipy import stats
 
+
 # read in the raw data
 
 data = ascii.read('data.csv')
