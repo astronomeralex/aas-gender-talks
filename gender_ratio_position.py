@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 import astropy
 import astropy.io.ascii as ascii
 import collections
+import scipy
+import scipy.misc
 from scipy import stats
 
 def count_mf_questions(data_in):
@@ -59,6 +61,15 @@ print "Number of questions asked by men: ", N_m_tm
 print "Number of questions asked by women: ", N_f_tm
 print "Questions ratio f/m: ", np.float(N_f_tm)/N_m_tm
 
+l_f = [len(q) for q in data[f_talks]['questions']]
+l_m = [len(q) for q in data[m_talks]['questions']]
+
+plt.clf()
+plt.hist(l_m, alpha=0.5)
+plt.hist(l_f, alpha=0.5, color='r')
+plt.legend(['male speaker', 'female speaker'])
+plt.title('Questions asked per talk')
+plt.savefig('questions_asked_per_talk.pdf')
 
 
 # find out at which position in the talk queue women and men typically ask their question
@@ -80,20 +91,15 @@ def position_ratios(data):
 
 print "testing position ratios"
 (pos_numbers, N_max) = position_ratios(data)
-print pos_numbers
+#print pos_numbers
 
+# binomial errors:
 def get_errors_on_ratio(pos_numbers):
   for i in np.arange(0, len(pos_numbers)):
-    samp_size = 10000
-    if ((pos_numbers[i,0] > 0) & (pos_numbers[i,1] > 0)):
-      sf = stats.poisson.rvs(pos_numbers[i,0], size=samp_size)*np.ones(samp_size, float)
-      sm = stats.poisson.rvs(pos_numbers[i,1], size=samp_size)*np.ones(samp_size, float)
-      out = sf/(sm + sf)
-      out.sort()
-      low = out[int(0.16*samp_size)]
-      high = out[int(0.84*samp_size)]
-      pos_numbers[i, 3] = low
-      pos_numbers[i, 4] = high
+    p_f_est = pos_numbers[i,0] / (pos_numbers[i,0] + pos_numbers[i,1])
+    z = 1 - 0.5*0.68
+    pos_numbers[i, 3] = pos_numbers[i, 2] - z*np.sqrt(1./(pos_numbers[i,0] + pos_numbers[i,1]) * p_f_est * (1 - p_f_est))
+    pos_numbers[i, 4] = pos_numbers[i, 2] + z*np.sqrt(1./(pos_numbers[i,0] + pos_numbers[i,1]) * p_f_est * (1 - p_f_est))
   
   return pos_numbers
 
@@ -102,7 +108,8 @@ get_errors_on_ratio(pos_numbers)
 
 np.set_printoptions(precision=3)
 np.set_printoptions(suppress=True)
-print pos_numbers
+#print pos_numbers
+
 
 plt.clf()
 plt.errorbar(np.arange(1, N_max+1), pos_numbers.transpose()[2], yerr=(pos_numbers.transpose()[2]-pos_numbers.transpose()[3], pos_numbers.transpose()[4]-pos_numbers.transpose()[2]), lw=2 )

@@ -1,0 +1,6 @@
+QUESTIONS WE HAVE ON HOW PEOPLE REPORTED:
+- Did people put down when the chair asked a question? 
+- Was the question clear that the "MMFM" should be in order the questions were asked?
+- How do we account for non-binary indivuals?
+- What do we do about repeat data? (For now, take longer string)
+- 
