@@ -34,14 +34,30 @@ print data['speaker']
 
 # Plot number of female and male speakers in sample
 
-plt.plot(np.array([0,1]), np.array([len(data[data['speaker']=='M']), len(data[data['speaker']=='F'])]), 'o')
-plt.axis([-1, 2, 0, 300])
+#plt.plot(np.array([0,1]), np.array([len(data[data['speaker']=='M']), len(data[data['speaker']=='F'])]), 'o')
+#plt.axis([-1, 2, 0, 300])
 
-print np.float(len(data[data['speaker']=='M']))/len(data[data['speaker']=='F'])
+print "Number of reported talks given by men: ", len(data[data['speaker']=='M'])
+print "Number of reported talks given by women: ", data[data['speaker']=='F'])
+print "Talk ratio f/m: ", np.float(len(data[data['speaker']=='M']))/len(data[data['speaker']=='F'])
 
-# 
+# count female/male questions:
 
-#for i in np.arange(0, len(data)):
+N_m = 0
+N_f = 0
+
+for i in np.arange(0, len(data)):
+  N_m = N_m + data['questions'][i].count('M')
+  N_f = N_f + data['questions'][i].count('F')
+
+print "Number of questions asked by men: ", N_m
+print "Number of questions asked by women: ", N_f
+print "Ratio f/m: ", np.float(N_f)/N_m
+
+
+
+
+
 
 
 
