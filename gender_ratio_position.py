@@ -7,6 +7,16 @@ import astropy.io.ascii as ascii
 import collections
 from scipy import stats
 
+def count_mf_questions(data_in):
+  N_m = 0
+  N_f = 0
+  
+  for i in np.arange(0, len(data_in)):
+    N_m = N_m + data_in['questions'][i].count('M')
+    N_f = N_f + data_in['questions'][i].count('F')
+  
+  return (N_f, N_m)
+
 
 
 # This is how to access data in this array:
