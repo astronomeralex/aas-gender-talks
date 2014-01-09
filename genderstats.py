@@ -2,6 +2,8 @@
 #assumes you've already ran read_speaker_data_and_stuff.py
 # run using execfile("genderstats.py")
 
+import re
+
 numtalks = len(data)
 mtalks = len(data[data["speaker"] == "M"])
 ftalks = len(data[data["speaker"] == "F"])
@@ -47,10 +49,10 @@ tpmf = 0
 tpfm = 0
 tpff = 0
 for i in data["questions"]:
-    tpmm += i.count("MM")
-    tpmf += i.count("MF")
-    tpfm += i.count("FM")
-    tpff += i.count("FF")
+    tpmm += len(re.findall('(?=MM)', i))
+    tpmf += len(re.findall('(?=MF)', i))
+    tpfm += len(re.findall('(?=FM)', i))
+    tpff += len(re.findall('(?=FF)', i))
 
 tptotal = tpmm + tpmf + tpfm + tpff
 
@@ -72,14 +74,14 @@ tgffm = 0
 tgfff = 0
 
 for i in data["questions"]:
-    tgmmm += i.count("MMM")
-    tgmmf += i.count("MMF")
-    tgmfm += i.count("MFM")
-    tgfmm += i.count("FMM")
-    tgmff += i.count("MFF")
-    tgfmf += i.count("FMF")
-    tgffm += i.count("FFM")
-    tgfff += i.count("FFF")
+    tgmmm += len(re.findall('(?=MMM)', i))
+    tgmmf += len(re.findall('(?=MMF)', i))
+    tgmfm += len(re.findall('(?=MFM)', i))
+    tgfmm += len(re.findall('(?=FMM)', i))
+    tgmff += len(re.findall('(?=MFF)', i))
+    tgfmf += len(re.findall('(?=FMF)', i))
+    tgffm += len(re.findall('(?=FFM)', i))
+    tgfff += len(re.findall('(?=FFF)', i))
 
 tgtotal = tgmmm + tgmmf + tgmfm + tgfmm + tgmff + tgfmf + tgffm + tgfff
 print "Three-Gram Total:", tgtotal
