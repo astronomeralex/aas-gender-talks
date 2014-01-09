@@ -3,6 +3,7 @@
 # run using execfile("genderstats.py")
 
 import re
+from scipy.stats import ks_2samp
 
 numtalks = len(data)
 mtalks = len(data[data["speaker"] == "M"])
@@ -112,4 +113,10 @@ print "Male:", msq, "(%.1f"%(msqfrac*100) + "%)"
 print "Female:", fsq, "(%.1f"%(fsqfrac*100) + "%)"
 print
 
+#Do men or women get asked more questions?
+
+fsqnums = np.array([len(i) for i in data[data["speaker"] == "F"]["questions"]])
+msqnums = np.array([len(i) for i in data[data["speaker"] == "M"]["questions"]])
+print "Do women and men get asked different numbers of questions?"
+print "KS Test Results (KS-stat,p-value):", ks_2samp(fsqnums,msqnums)
 
