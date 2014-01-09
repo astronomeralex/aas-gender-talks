@@ -9,7 +9,7 @@ def count_mf_questions(data_in):
   N_m = 0
   N_f = 0
   
-  for i in np.arange(0, len(data)):
+  for i in np.arange(0, len(data_in)):
     N_m = N_m + data['questions'][i].count('M')
     N_f = N_f + data['questions'][i].count('F')
   
@@ -64,6 +64,20 @@ print "Questions ratio f/m: ", np.float(N_f)/N_m
 # questions ratio for talks given by women/men individually
 f_talks = data['speaker'] == 'F'
 m_talks = data['speaker'] == 'M'
+
+(N_f_tf, N_m_tf) = count_mf_questions(data[f_talks==True])
+(N_f_tm, N_m_tm) = count_mf_questions(data[m_talks==True])
+
+
+print "In Talks given by women:"
+print "Number of questions asked by men: ", N_m_tf
+print "Number of questions asked by women: ", N_f_tf
+print "Questions ratio f/m: ", np.float(N_f_tf)/N_m_tf
+
+print "In Talks given by men:"
+print "Number of questions asked by men: ", N_m_tm
+print "Number of questions asked by women: ", N_f_tm
+print "Questions ratio f/m: ", np.float(N_f_tm)/N_m_tm
 
 
 
