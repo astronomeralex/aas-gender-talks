@@ -39,7 +39,7 @@ print data['speaker']
 
 print "Number of reported talks given by men: ", len(data[data['speaker']=='M'])
 print "Number of reported talks given by women: ", len(data[data['speaker']=='F'])
-print "Talk ratio f/m: ", np.float(len(data[data['speaker']=='M']))/len(data[data['speaker']=='F'])
+print "Talk ratio f/m: ", np.float(len(data[data['speaker']=='F']))/len(data[data['speaker']=='M'])
 
 # count female/male questions:
 
