@@ -111,7 +111,7 @@ pos_numbers = pos_numbers[0:-1]
 
 # get binomial errors where approximation does not work (i.e. where p approaches 0 or 1)
 # yes, quick and ugly.
-i=7
+i=7 # the one with zero women in that bin
 N = pos_numbers[i,0] + pos_numbers[i,1]
 k = pos_numbers[i,0]
 p_est = pos_numbers[i,0]/(pos_numbers[i,0] + pos_numbers[i,1])
@@ -123,7 +123,7 @@ high = np.max(p_est[i_near])
 pos_numbers[i, 3] = 0.
 pos_numbers[i, 4] = high
 
-others = np.array([0,1,2,3,4,5,6,8])
+others = np.array([0,1,2,3,4,5,6,8]) # the rest of the bins
 for i in others:
   N = pos_numbers[i,0] + pos_numbers[i,1]
   k = pos_numbers[i,0]
