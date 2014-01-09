@@ -59,6 +59,15 @@ print "Number of questions asked by men: ", N_m_tm
 print "Number of questions asked by women: ", N_f_tm
 print "Questions ratio f/m: ", np.float(N_f_tm)/N_m_tm
 
+l_f = [len(q) for q in data[f_talks]['questions']]
+l_m = [len(q) for q in data[m_talks]['questions']]
+
+plt.clf()
+plt.hist(l_m, alpha=0.5)
+plt.hist(l_f, alpha=0.5, color='r')
+plt.legend(['male speaker', 'female speaker'])
+plt.title('Questions asked per talk')
+plt.savefig('questions_asked_per_talk.pdf')
 
 
 # find out at which position in the talk queue women and men typically ask their question
@@ -99,6 +108,13 @@ np.set_printoptions(precision=3)
 np.set_printoptions(suppress=True)
 print pos_numbers
 
+
+# get binomial errors where approximation does not work (i.e. where p approaches 0 or 1)
+i=0
+N = pos_numbers[i,0] + pos_numbers[i,1]
+k = pos_numbers[i,0]
+p_est = pos_numbers[i,0]/(pos_numbers[i,0] + pos_numbers[i,1])
+likelihood = scipy.misc.comb(N, k)
 
 
 
