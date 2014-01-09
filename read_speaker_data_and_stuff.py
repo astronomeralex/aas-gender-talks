@@ -38,7 +38,7 @@ print data['speaker']
 #plt.axis([-1, 2, 0, 300])
 
 print "Number of reported talks given by men: ", len(data[data['speaker']=='M'])
-print "Number of reported talks given by women: ", data[data['speaker']=='F'])
+print "Number of reported talks given by women: ", len(data[data['speaker']=='F'])
 print "Talk ratio f/m: ", np.float(len(data[data['speaker']=='M']))/len(data[data['speaker']=='F'])
 
 # count female/male questions:
