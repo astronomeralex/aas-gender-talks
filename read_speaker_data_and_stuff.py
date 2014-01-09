@@ -10,8 +10,8 @@ def count_mf_questions(data_in):
   N_f = 0
   
   for i in np.arange(0, len(data_in)):
-    N_m = N_m + data['questions'][i].count('M')
-    N_f = N_f + data['questions'][i].count('F')
+    N_m = N_m + data_in['questions'][i].count('M')
+    N_f = N_f + data_in['questions'][i].count('F')
   
   return (N_f, N_m)
 
@@ -83,6 +83,8 @@ print "Questions ratio f/m: ", np.float(N_f_tm)/N_m_tm
 
 
 # find out at which position in the talk queue wome and men typically ask their question
+
+
 
 
 
