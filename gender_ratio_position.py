@@ -91,7 +91,7 @@ def position_ratios(data):
 
 print "testing position ratios"
 (pos_numbers, N_max) = position_ratios(data)
-print pos_numbers
+#print pos_numbers
 
 # binomial errors:
 def get_errors_on_ratio(pos_numbers):
@@ -108,7 +108,7 @@ get_errors_on_ratio(pos_numbers)
 
 np.set_printoptions(precision=3)
 np.set_printoptions(suppress=True)
-print pos_numbers
+#print pos_numbers
 
 
 plt.clf()
