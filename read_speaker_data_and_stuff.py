@@ -6,7 +6,7 @@ import astropy
 import astropy.io.ascii as ascii
 
 
-data = ascii.read('Hackday/data.csv')
+data = ascii.read('data.csv')
 
 # print stuff where no gender is reported
 
@@ -36,6 +36,14 @@ print data['speaker']
 
 plt.plot(np.array([0,1]), np.array([len(data[data['speaker']=='M']), len(data[data['speaker']=='F'])]), 'o')
 plt.axis([-1, 2, 0, 300])
+
+print np.float(len(data[data['speaker']=='M']))/len(data[data['speaker']=='F'])
+
+# 
+
+#for i in np.arange(0, len(data)):
+
+
 
 
 
