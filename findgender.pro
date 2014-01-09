@@ -12,7 +12,7 @@ f_name = strlowcase(f_name)
 m_name = strlowcase(m_name)
 aas_name = strlowcase(aas_name)
 
-gender = strarr(n_elements(aas_name)) + 'u'
+gender = strarr(n_elements(aas_name)) + 'x'
 
 for n=0L,n_elements(aas_name)-1 do begin
    xf = where(f_name eq aas_name[n])
@@ -32,6 +32,24 @@ for n=0L,n_elements(aas_name)-1 do begin
 endfor
 
 forprint,textout=infile+'.gender',aas_name,gender,/silent,/nocomm,f='(A,",",A4)'
+
+
+
+
+
+print,''
+print,'fraction of names w/ gender assigned:'
+print,float(n_elements(where(gender ne "x")))/float(n_elements(gender))
+
+
+print,''
+print,'fraction of men'
+print,float(n_elements(where(gender eq "m")))/float(n_elements(where(gender ne "x")))
+
+
+print,''
+print,'fraction of women'
+print,float(n_elements(where(gender eq "f")))/float(n_elements(where(gender ne "x")))
 
 
 
