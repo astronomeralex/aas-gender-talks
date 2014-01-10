@@ -12,6 +12,7 @@ Here are the list of action items:
 - group talks in to broad subject catagories (even Planets versus everyone else would be interesting), which subjects do best/worst?
 - update (and make pretty) the histograms and other plots
 - do some more background reading on similar studies
+  - useful numbers here:  http://www.aas.org/cswa/percent.html
 - write paper
 ...
 - profit!
