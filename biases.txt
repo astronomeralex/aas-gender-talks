@@ -1,6 +1,8 @@
-QUESTIONS WE HAVE ON HOW PEOPLE REPORTED:
-- Did people put down when the chair asked a question? 
+QUESTIONS WE HAVE ON HOW PEOPLE REPORTED AND/OR THINGS TO DO BETTER: 
+- Did people put down when the chair asked a question?  
+- How do we account for non-binary gendered indivuals?
+- For next time use options of: Male, Female, Chair, Non-binary
 - Was the question clear that the "MMFM" should be in order the questions were asked?
-- How do we account for non-binary indivuals?
 - What do we do about repeat data? (For now, take longer string)
-- 
+- Do we want to include gender ratio of intedees of the talks? 
+- What is the bias of people who knew about this idea? Is there any? (Ie. what types of talks do they go to?) 
