@@ -1,0 +1,17 @@
+Jim Davenport says: 
+The goal (as I see it) is to write a short blog post to send out, and simultaneously a simple paper to submit to the arXiv with more details. The paper should include a description of the survey, our most robust result(s), a few survey lessons learned, and any action items for future meetings we can think of.
+
+I am happy to take lead on writing, if people will help me finish up plots and calculating numbers.
+
+Here are the list of action items:
+
+- propgate final data.csv file in to plots/numbers
+- measure (or at least understand) completeness by computing gender ratios for all talks given versus the talks we surveyed in this study
+- consider the impact of the Session Chair's gender
+- Find the sessions with the most even and most disparate gender ratios (for talks and questions)
+- group talks in to broad subject catagories (even Planets versus everyone else would be interesting), which subjects do best/worst?
+- update (and make pretty) the histograms and other plots
+- do some more background reading on similar studies
+- write paper
+...
+- profit!
