@@ -21,16 +21,16 @@ extras = ascii.read( "extra_names.csv" )
 def get_gender( name ):
     
     # find name in male and female lists
-    wm = where( male["name"] == name )
-    wf = where( female["name"] == name )
+    wm = where( male["name"] == name )[0]
+    wf = where( female["name"] == name )[0]
     
-    if not size( wm ) and not size( wf ):                   # name not found
+    if not wm and not wf:                                   # name not found
         gender= "x"
         wh = where( extras["name"] == name )
         if extras[wh]["gender"] == "m" or extras[wh]["gender"] == "f":
             gender = extras[wh]["gender"]
-    elif size( wm ) == 0: gender = "m"                      # only in male
-    elif size( wf ) == 0: gender = "f"                      # only in female
+    elif not wf: gender = "m"                               # only in male
+    elif not wm: gender = "f"                               # only in female
     elif male[wm]["nm"] > female[wf]["nf"]: gender = "m"    # both, more male
     elif male[wm]["nm"] < female[wf]["nf"]: gender = "f"    # both, more female
     else: gender = "e"                                      # error
