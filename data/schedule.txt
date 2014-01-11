@@ -1,7 +1,3 @@
-MONDAY, JANUARY 06, 2014
- 	
- 	
-
 102. Cosmology & CMB I
 Chair(s): Alan Kogut (NASA's GSFC)
 10:00 AM - 11:30 AM; Potomac Ballroom D (Gaylord National Resort and Convention Center)
@@ -33,6 +29,24 @@ Soma De; Tanmay Vachaspati; Levon Pogosian; Hiroyuki Tashiro
 11:20 AM - 11:30 AM
 102. 07. The effect of aberration on partial-sky measurements of the cosmic microwave background temperature power spectrum 
 Donghui Jeong; Jens Chluba; Liang Dai; Marc Kamionkowski; Xin Wang
+
+
+103. Exoplanets and Kepler Astrophysics
+Chair(s): David Ciardi (Caltech)
+Organizer(s): Frederic Rasio (Northwestern Univ.)
+10:00 AM - 11:30 AM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+10:00 AM - 10:30 AM
+103. 01. Planet Hunters: Kepler by Eye
+Megan E. Schwamb; Chris Lintott; Debra Fischer; Arfon M. Smith; Tabetha S. Boyajian; John M. Brewer; Matthew J. Giguere; Stuart Lynn; Michael Parrish; Kevin Schawinski; Joseph Schmitt; Robert Simpson; Ji Wang
+
+10:30 AM - 11:00 AM
+103. 02. Flicker, Jitter, Crackle: Lifting the Veil on Stellar Variability and Understanding its Impact on Planet Detection with Kepler
+Fabienne A. Bastien; Keivan Stassun; Gibor S. Basri; Joshua Pepper
+
+11:00 AM - 11:30 AM
+103. 03. Optical variability of the Kepler AGN
+Rick Edelson
 
 
 104. Exoplanets: Exomoons and Migration
@@ -173,6 +187,44 @@ Jay M. Pasachoff
 This presentation has been withdrawn. Withdrawn
 107. 08. The Carbon Dioxide Concentration in Earth’s atmosphere and Its Possible Influence on the Temperature at the Surface – as discussed in Sweden in 1894-96.
 Lee Anne M. Willson
+
+
+108. HEAD I: News from the Galactic Center: A Multiwavelength Update on the Sgr A*/G2 Encounter
+Chair(s): Daryl Haggard (Northwestern University/CIERA)
+Organizer(s): Daryl Haggard (Northwestern University/CIERA)
+10:00 AM - 11:30 AM; National Harbor 5 (Gaylord National Resort and Convention Center)
+
+10:00 AM - 10:07 AM
+108. 01. A Brief Overview of X-ray Monitoring of the Sgr A*/G2 Interaction in 2012-2013
+Frederick K. Baganoff
+
+10:07 AM - 10:14 AM
+108. 02. G2 Monitoring at Submillimeter, Millimeter, and Radio Wavelengths
+Geoffrey C. Bower
+
+10:14 AM - 10:21 AM
+108. 03. The Swift/XRT monitoring campaign of the Galactic center
+Nathalie Degenaar; Mark Reynolds; Jon M. Miller; Rudy Wijnands; Jamie A. Kennea; Daryl Haggard; Neil Gehrels; Gabriele Ponti; Frederick K. Baganoff; Sera Markoff; Diego Altamirano; David N. Burrows
+
+10:21 AM - 10:28 AM
+108. 04. Expectations for Sgr A* in the case of an enhanced accretion rate from the G2 encounter 
+Sera Markoff
+
+10:28 AM - 10:35 AM
+108. 05. Multi-Wavelength Monitoring of the G2 Cloud Interacting with Sgr A*
+Farhad Yusef-Zadeh
+
+10:35 AM - 10:42 AM
+108. 06. G2 Encounter: A Real-time Experiment on Accretion Flows
+Feryal Ozel
+
+10:42 AM - 10:49 AM
+108. 07. Keck observations of G2 and SgrA*
+Leo Meyer; Andrea M. Ghez; Tuan Do; Anna Boehle; Gunther Witzel; Breann Sitarski; Sylvana Yelda; Jessica R. Lu; Mark Morris; Eric E. Becklin
+
+10:49 AM - 10:49 AM
+108. 08. VLT Observations of the Gas Cloud G2
+Stefan Gillessen
 
 
 109. Instrumentation I: Space Missions
@@ -410,6 +462,71 @@ Hyun-Jin Bae; Jong-Hak Woo
 Sara Cutini; Benoit Lott; Dario Gasparrini; Stefano Ciprini; Elisabetta Cavazzuti
 
 
+116. Results from the Pan-STARRS1 Surveys
+Organizer(s): Kenneth Chambers (Univ. of Hawaii)
+10:00 AM - 11:30 AM; Maryland Ballroom B (Gaylord National Resort and Convention Center)
+
+10:00 AM - 10:05 AM
+116. 01. The Pan-STARRS1 Surveys 
+Kenneth C. Chambers
+
+This presentation has been withdrawn. Withdrawn
+116. 02. The Pan-STARRS-1 Outer Solar System Key Project: A Status Report 
+Matthew J. Holman
+
+10:10 AM - 10:15 AM
+116. 03. Probing the atmospheres of brown dwarf with benchmark objects identified in Pan-STARRS1
+Niall Deacon; Michael C. Liu; Eugene A. Magnier; Katelyn N. Allers; Trent J. Dupuy; Brendan P. Bowler; Kimberly M. Aller; William M. Best; Michael C. Kotson
+
+10:15 AM - 10:20 AM
+116. 04. The Dust to 5 kpc from Pan-STARRS1
+Eddie Schlafly; Gregory Green; Douglas P. Finkbeiner; Hans-Walter Rix
+
+10:20 AM - 10:25 AM
+116. 05. A 3D Dust Reddening Map from Pan-STARRS1
+Gregory Green; Eddie Schlafly; Douglas P. Finkbeiner
+
+10:25 AM - 10:30 AM
+116. 06. A Panoramic View of the Monoceros Ring
+Colin Slater; Eric F. Bell; Eddie Schlafly; Eric Morganson; Nicolas Martin; Hans-Walter Rix
+
+10:30 AM - 10:35 AM
+116. 07. Pan-STARRS-1 Medium Deep Survey Status
+Mark Huber
+
+10:35 AM - 10:40 AM
+116. 08. The Pan-STARRS 1 Medium Deep Field Variable Star Catalog
+Heather Flewelling
+
+10:40 AM - 10:45 AM
+116. 09. Systematic Uncertainties Associated with the Cosmological Analysis of the First Pan-STARRS1 Type Ia Supernova Sample 
+Daniel Scolnic; Armin Rest
+
+10:45 AM - 10:50 AM
+116. 10. SN IA in the IR: RAISIN A progress report
+Robert P. Kirshner
+
+10:50 AM - 10:55 AM
+116. 11. Early science from the Pan-STARRS1 Optical Galaxy Survey (POGS): Maps of stellar mass and star formation rate surface density obtained from distributed-computing pixel-SED fitting
+David A. Thilker; Kevin Vinsen
+
+10:55 AM - 11:00 AM
+116. 12. Discovery of high-redshift quasars from Pan-STARRS1.
+Eduardo Banados; Bram Venemans; Eric Morganson; Roberto Decarli; Fabian Walter; Kenneth C. Chambers; Hans-Walter Rix; Emanuele Farina; Gisella De Rosa
+
+11:00 AM - 11:05 AM
+116. 13. A Pan-STARRS-1 Astrometric and Photometric Search for Substellar Young Moving Group Members
+Kimberly M. Aller; Michael C. Liu; Eugene A. Magnier
+
+11:05 AM - 11:10 AM
+116. 14. A Pan-STARRS1-based recalibration of the Sloan Digital Sky Survey photometry
+Douglas P. Finkbeiner; Eddie Schlafly; Gregory Green
+
+11:10 AM - 11:15 AM
+116. 15. Early Results and Plans for the Time Domain Spectroscopic Survey
+Paul J. Green; Scott F. Anderson; Eric Morganson; John J. Ruan
+
+
 117. Star Formation I
 Chair(s): Lynn Carlson (Leiden University)
 10:00 AM - 11:30 AM; Potomac Ballroom C (Gaylord National Resort and Convention Center)
@@ -561,6 +678,24 @@ Michiel A. Brentjens; Sarod Yatawatta; Vishambar Pandey; Vibor Jelic; A. G. de B
 2:50 PM - 3:00 PM
 127. 06. The Stratospheric Kinetic Inductance Polarimeter (SKIP)
 Daniel Flanigan; Peter Ade; Derek Araujo; Kristi J. Bradford; Daniel Chapman; George Che; Peter Day; Joy Didier; Simon Doyle; Hans Eriksen; Christopher E. Groppi; Seth N. Hillbrand; Bradley Johnson; Glenn Jones; Michele Limon; Philip Mauskopf; Heather McCarrick; Amber D. Miller; Tony Mroczkowski; Britt Reichborn-Kjennerud; Brian Smiley; Joshua Sobrin; Ingunn K. Wehus; Jonas Zmuidzinas
+
+
+128. Dynamics and Habitability of Exoplanets - What have we learned from Kepler?
+Chair(s): Frederic Rasio (Northwestern Univ.)
+Organizer(s): David Ciardi (Caltech)
+2:00 PM - 3:30 PM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+2:00 PM - 2:30 PM
+128. 01. Overstable Librations can account for the Paucity of Mean Motion Resonances among Exoplanet Pairs
+Hilke Schlichting
+
+2:30 PM - 3:00 PM
+128. 02. Reaching into the Habitable Zones of Kepler Stars
+Stephen R. Kane; Dawn M. Gelino; Natalie R. Hinkel
+
+3:00 PM - 3:00 PM
+128. 03. Lessons From Kepler
+Yoram Lithwick
 
 
 129. Evolution of Elliptical Galaxies and Black Holes
@@ -745,6 +880,27 @@ Nicolle Zellner; Nicole Garrett Smeltekop
 Ian Steer
 
 
+135. HEAD II: Consistent Cluster Cosmology: What are Planck, SZ telescopes, and X-ray observations telling us?
+Chair(s): Joel Bregman (Univ. of Michigan)
+Organizer(s): Jan Vrtilek (Harvard-Smithsonian, CfA)
+2:00 PM - 3:30 PM; National Harbor 5 (Gaylord National Resort and Convention Center)
+
+2:00 PM - 2:15 PM
+135. 01. Planck Cluster Cosmology Results
+James G. Bartlett
+
+2:15 PM - 2:30 PM
+135. 02. The South Pole Telescope Cluster Survey
+Bradford Benson
+
+2:30 PM - 2:45 PM
+135. 03. X-ray Cluster Cosmology from Einstein to eROSITA
+Christine Jones
+
+2:45 PM - 3:00 PM
+Cluster Cosmology from the Atacama Cosmology Telescope, Suzanne Staggs
+
+
 136. Instrumentation II: Ground Missions
 Chair(s): Richard Green (LBTO)
 2:00 PM - 3:30 PM; Maryland 2
@@ -836,6 +992,43 @@ Gururaj Wagle; Gary J. Ferland; Thomas H. Troland; Nicholas Abel
 Danielle M. Lucero; Claude Carignan; Kelley M. Hess; Bradley S. Frank; Toky H. Randriamampandry; Sharmila Goedhart; Sean S. Passmoor
 
 
+139. New Science from the CLASH/CANDELS Multi-Cycle Treasury Programs
+Chair(s): Marc Postman (STScI)
+2:00 PM - 3:30 PM; Maryland Ballroom B (Gaylord National Resort and Convention Center)
+
+2:00 PM - 2:10 PM
+139. 01. The Concentration-Mass Relation from CLASH
+Julian Merten
+
+2:10 PM - 2:20 PM
+139. 02. Studying Galaxy Evolution at High-Redshift with CANDELS
+Steven L. Finkelstein
+
+2:20 PM - 2:30 PM
+139. 03. High Redshift Galaxies in CLASH
+Larry D. Bradley
+
+2:30 PM - 2:40 PM
+139. 04. Confronting theoretical models with CANDELS observations 
+Yu Lu
+
+2:40 PM - 2:50 PM
+139. 05. Baryon-Derived Scaling Relations from CLASH
+Nicole G. Czakon; Megan Donahue; Elinor Medezinski
+
+2:50 PM - 3:00 PM
+139. 06. Type Ia Supernovae in the Early Universe from CANDELS
+Steven A. Rodney
+
+3:00 PM - 3:10 PM
+139. 07. The CLASH Type-Ia Supernova Rates Out to Redshift 2.4
+Or Graur
+
+3:10 PM - 3:20 PM
+139. 08. CANDELS Measurements of Structure and Morphology Over Cosmic Time
+Jeyhan S. Kartaltepe
+
+
 140. Pulsars & Neutron Stars II
 Chair(s): Herman Marshall (MIT)
 2:00 PM - 3:30 PM; National Harbor 13 (Gaylord National Resort and Convention Center)
@@ -871,19 +1064,74 @@ Paul S. Ray; Andrea M. Belfiore; Pablo Saz Parkinson; Emil Polisensky; Scott M. 
 3:10 PM - 3:20 PM
 140. 08. Gamma-Ray Pulsar Emission: From Theory to Observations
 Constantinos Kalapotharakos; Alice K. Harding; Demosthenes Kazanas
-View Presentation
-
- Include in Itinerary 
-
- 
- 
- 
 
 
+141. The Dark Energy Camera and the Dark Energy Survey
+Chair(s): Gary Bernstein (Univ. of Pennsylvania)
+Organizer(s): Gary Bernstein (Univ. of Pennsylvania)
+2:00 PM - 3:30 PM; National Harbor 10 (Gaylord National Resort and Convention Center)
 
-TUESDAY, JANUARY 07, 2014
- 	
- 	
+2:00 PM - 2:15 PM
+141. 01. Overview of DECam and DES
+Gary Bernstein
+
+2:15 PM - 2:27 PM
+141. 02. DECam Image Quality
+Aaron Roodman
+
+2:27 PM - 2:39 PM
+141. 03. DES Gravitational Lensing Results
+Peter Melchior
+
+2:39 PM - 2:51 PM
+141. 04. DES Large-scale Structure Results
+Ignacio Sevilla
+
+2:51 PM - 3:03 PM
+141. 05. DES Supernova Results
+Christopher D'Andrea
+
+3:03 PM - 3:15 PM
+141. 06. DES Galaxy Cluster Results
+Eli S. Rykoff
+
+
+159. Developing Our Own Future: Undergraduate Research and Enrichment Through Peer-Led Programs
+Chair(s): Gina Brissenden (Center for Astronomy Education (CAE), Steward Observatory, Univ. of Arizona)
+Organizer(s): Gina Brissenden (Center for Astronomy Education (CAE), Steward Observatory, Univ. of Arizona)
+2:00 PM - 3:30 PM; Maryland 3
+
+2:00 PM - 2:10 PM
+159. 01. Welcome Address
+Allison P. Towner; Kevin Hardegree-Ullman; Gina Brissenden; Amanda Walker-LaFollette
+
+2:10 PM - 2:20 PM
+159. 02. The League of Astronomers 
+Nancy H. Thomas; Andrew Brandel; Anthony M. Paat; Denise Schmitz; Ramon Sharma; Juan Trujillo; Christopher S. Laws
+
+2:20 PM - 2:30 PM
+159. 03. Bridging the gap between undergrads and grads: The mentor next door
+Aaron Gruberg
+
+2:30 PM - 2:40 PM
+159. 04. PEER DEVELOPMENT OF UNDERGRADUATE ASTRONOMERS AND PHYSICISTS AT THE UNIVERSITY OF WISCONSIN – MADISON
+Melissa Abler
+
+2:40 PM - 2:50 PM
+159. 05. Peer mentoring of telescope operations and data reduction at Western Kentucky University 
+Joshua Williams; Michael T. Carini
+
+2:50 PM - 3:00 PM
+159. 06. The Society of Astronomy Students: From the Ground Up
+Shannon Rees; Mercedes Maldonado; Dana Beasley; Angelica Campos; Amber Medina; Nancy J. Chanover
+
+3:00 PM - 3:10 PM
+159. 07. Results and Implications of Seven Years of the University of Arizona Astronomy Club
+Amanda Walker-LaFollette; Allison P. Towner; Kevin Hardegree-Ullman; Gina Brissenden
+
+3:10 PM - 3:30 PM
+Speaker Panel Questions and Open Discussion
+
 
 202. Instrumentation III: Ground or Airborne Missions
 Chair(s): Daniel Harbeck (WIYN Observatory)
@@ -912,6 +1160,36 @@ Qingzhen Guo; Matthias Beilicke; Fabian Kislat; Henric Krawczynski
 11:10 AM - 11:20 AM
 202. 06. Low-Cost InGaAs Detectors for Near-Infrared Imaging and Photometry
 Peter Sullivan; Bryce Croll; Robert A. Simcoe
+
+
+203. Building the Astronomical Information Sciences: From NASA's AISR Program to the New AAS Working Group on Astroinformatics and Astrostatistics
+Chair(s): Thomas Loredo (Cornell Univ.)
+Organizer(s): Thomas Loredo (Cornell Univ.) and Zeljko Ivezic (Univ. of Washington)
+10:00 AM - 11:30 AM; National Harbor 4 (Gaylord National Resort and Convention Center)
+
+10:00 AM - 10:10 AM
+203. 01. Conflict and Reconciliation in Software Design
+Eric Mandel
+
+10:10 AM - 10:20 AM
+203. 02. From AISR to the Virtual Observatory
+Alexander S. Szalay
+
+10:20 AM - 10:30 AM
+203. 03. Astrostatistics in X-ray Astronomy: Systematics and Calibration
+Aneta Siemiginowska
+
+10:30 AM - 10:40 AM
+203. 04. Hyperspectral Image Analysis in Planetary Science and Astronomy
+Erzsebet Merenyi
+
+10:40 AM - 10:45 AM
+203. 05. Reflections on the AISR Program
+Joseph Bredekamp
+
+10:45 AM - 11:15 AM
+203. 06. Introducing the AAS Working Group on Astroinformatics and Astrostatistics
+Zeljko Ivezic
 
 
 204. Cosmology & CMB III
@@ -1199,6 +1477,32 @@ Zaven Arzoumanian; Keith Gendreau
 Simin Mahmoodifar; Paulo F. Bedaque; Srimoyee Sen
 
 
+213. Spitzer Space Telescope: The Next Ten Years
+Chair(s): Michael Skrutskie (Univ. Of Virginia)
+Organizer(s): Michael Skrutskie (Univ. Of Virginia)
+10:00 AM - 11:30 AM; Potomac Ballroom C (Gaylord National Resort and Convention Center)
+
+10:00 AM - 10:05 AM
+213. 01. Introduction: Spitzer -- The Next Ten Years
+Lisa J. Storrie-Lombardi
+
+10:05 AM - 10:25 AM
+214.05. Spitzer’s Past and Future Exoplanet Legacy
+Sara Seager
+
+10:25 AM - 10:45 AM
+213. 02. Pushing the Frontiers to z>10 with the Spitzer Space Telescope
+Peter L. Capak; Charles L. Steinhardt; Josh S. Speagle; Andreea Petric; Martin Elvis
+
+10:45 AM - 11:05 AM
+213. 03. Spitzer and Variable Young Stars: Shining a Spotlight on Circumstellar Disks
+Ann Marie Cody
+
+11:05 AM - 11:25 AM
+213. 04. The Spitzer View of Galaxy Clusters in the Distant Universe
+Casey J. Papovich
+
+
 214. Star Formation II
 Chair(s): Xavier Koenig (NASA Goddard Space Flight Center)
 10:00 AM - 11:30 AM; National Harbor 12 (Gaylord National Resort and Convention Center)
@@ -1454,6 +1758,45 @@ Michael Martynowycz; Gayle Ratliff; Geza Gyuk; Mark Hammergren
 Constance E. Walker; Daniel Tellez; Stephen M. Pompea
 
 
+225. Astrophysics Code Sharing II: The Sequel
+Chair(s): Robert Hanisch (STScI) and Peter Teuben (Univ. of Maryland)
+Organizer(s): Alice Allen (Astrophysics Source Code Library)
+2:00 PM - 3:30 PM; National Harbor 5 (Gaylord National Resort and Convention Center)
+
+2:00 PM - 2:04 PM
+Introduction
+
+2:04 PM - 2:10 PM
+225. 01. Occupy Hard Drives: Making your work more valuable by giving it away
+Benjamin J. Weiner
+
+2:10 PM - 2:18 PM
+225. 02. Maintaining A User Community For The Montage Image Mosaic Toolkit.
+G. B. Berriman
+
+2:18 PM - 2:26 PM
+225. 03. Cloudy – simulating the non-equilibrium microphysics of gas and dust, and its observed spectrum
+Gary J. Ferland
+
+2:26 PM - 2:32 PM
+225. 04. NSF Policies on Software and Data Sharing and their Implementation
+Daniel Katz
+
+2:32 PM - 2:40 PM
+225. 05. The Astropy Project's Self-Herding Cats Development Model
+Erik J. Tollerud
+
+2:40 PM - 2:46 PM
+225. 06. Costs and benefits of developing out in the open
+David W. Hogg
+
+2:46 PM - 3:26 PM
+Open Discussion
+
+3:26 PM - 3:30 PM
+Closing Remarks
+
+
 226. Cosmology & CMB IV
 Chair(s): Alan Kogut (NASA's GSFC)
 2:00 PM - 3:30 PM; Maryland Ballroom C (Gaylord National Resort and Convention Center)
@@ -1648,14 +1991,6 @@ Jesus Martinez-Manso; Anthony H. Gonzalez; Matthew Ashby; S. A. Stanford; Mark B
 David P. Palamara; Michael J. Brown; Buell Jannuzi; Martin White; Peder Norberg
 
 
-259. HAD VII: Oral History Project
-2:00 PM - 2:15 PM; National Harbor 3 (Gaylord National Resort and Convention Center)
-
-2:00 PM - 2:00 PM
-259.01. HAD Oral History Project
-Jarita Holbrook
-
-
 232. Laboratory Astrophysics
 Chair(s): Angela Speck (Univ. of Missouri)
 2:00 PM - 3:30 PM; Maryland 1
@@ -1702,8 +2037,30 @@ Michael Schneider
 Michael A. Troxel; Mustapha B. Ishak-Boushaki
 
 
+234. Reports from NASA's Astrophysics Program Analysis Groups
+Chair(s): Ann Hornschemeier (NASA GSFC)
+Organizer(s): Ann Hornschemeier (NASA GSFC)
+2:00 PM - 3:30 PM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+2:00 PM - 2:20 PM
+234. 01. Overview of NASA Astrophysics Program Analysis Groups
+Michael R. Garcia; Douglas M. Hudgins; Rita M. Sambruna
+
+2:20 PM - 2:40 PM
+234. 02. The Cosmic Origins Program Analysis Group (COPAG)
+Kenneth Sembach
+
+2:40 PM - 3:00 PM
+234. 03. Report from the Exoplanet Exploration Program Analysis Group (ExoPAG)
+B. S. Gaudi
+
+3:00 PM - 3:20 PM
+234. 04. Summary of PhysPAG Activity
+John A. Nousek
+
+
 235. Supernovae & Nebulae II
-Chair(s): W. Wood-Vasey (University of Pittsburgh)
+Chair(s): Michael Wood-Vasey (University of Pittsburgh)
 2:00 PM - 3:30 PM; National Harbor 10 (Gaylord National Resort and Convention Center)
 
 2:00 PM - 2:20 PM
@@ -1772,6 +2129,36 @@ John A. Fischer
 George Heald
 
 
+237. The Cosmic Origins Spectrograph view of the Circumgalactic Medium
+Chair(s): Andrew Fox (STScI)
+Organizer(s): Andrew Fox (STScI)
+2:00 PM - 3:30 PM; National Harbor 4 (Gaylord National Resort and Convention Center)
+
+2:00 PM - 2:15 PM
+237. 01. The Circumgalactic Medium over Three Decades of Mass: Results from COS-Halos and COS-Dwarfs
+Jason Tumlinson
+
+2:15 PM - 2:30 PM
+237. 02. The Significant Contribution of Photo-ionized Circumgalactic Gas to the Total Baryonic Budget of L* Galaxies 
+Jessica Werk; Jason X. Prochaska; Jason Tumlinson; Molly S. Peeples; Todd M. Tripp; Andrew Fox; Nicolas Lehner
+
+This presentation has been withdrawn. Withdrawn
+237. 03. Large Reservoirs Of Metal-Poor Gas Around z<1 Galaxies
+Nicolas Lehner; J. C. Howk; Christopher Wotta; Jason Tumlinson; Todd M. Tripp; Jason X. Prochaska; John O'Meara; Jessica Werk; Andrew Fox; Joseph Ribaudo
+
+2:45 PM - 3:00 PM
+237. 04. The Signatures of Star formation on the Properties of the Circumgalactic Medium 
+Sanchayeeta Borthakur
+
+3:00 PM - 3:15 PM
+237. 05. Characterizing the Circumgalactic Medium of Nearby Galaxies
+Brian A. Keeney; John T. Stocke; Charles Danforth; Blair D. Savage; Cynthia S. Froning; James C. Green
+
+3:15 PM - 3:30 PM
+237. 06. Bridging the Observational Gaps: Milestones toward Understanding the Circumgalactic Medium
+Christopher W. Churchill
+
+
 238. The Galactic Center
 Chair(s): Douglas Roberts (Adler Planetarium)
 2:00 PM - 3:30 PM; Potomac Ballroom C (Gaylord National Resort and Convention Center)
@@ -1803,22 +2190,10 @@ Marc W. Pound; Farhad Yusef-Zadeh
 3:10 PM - 3:20 PM
 238. 07. Multi-epoch Measurements of the Galactic Center (~6667 MHz) and the Blazar 0716+714 (1 & 3 MHz) taken from the Allen Telescope Array at Hat Creek Radio Observatory in 2013
 Aaron Castellanos; Gerald Harp
-View Presentation
 
- Include in Itinerary 
-
- 
- 
- 
-
-
-
-WEDNESDAY, JANUARY 08, 2014
- 	
- 	
 
 301. AGN Across the Spectrum: I
-Chair(s): W. Brandt (Penn State Univ.)
+Chair(s): Niel Brandt (Penn State Univ.)
 10:00 AM - 11:30 AM; National Harbor 11 (Gaylord National Resort and Convention Center)
 
 10:00 AM - 10:20 AM
@@ -1918,6 +2293,34 @@ Timothy Rodigas; Philip Hinz; Alycia J. Weinberger; Laird M. Close; John H. Debe
 11:20 AM - 11:30 AM
 303. 06. HD 181327 Debris Disk Asymmetries: Signs of a Planet or Geometric Projection Effects?
 Christopher C. Stark; Glenn Schneider; Alycia J. Weinberger; John H. Debes; Hannah Jang-Condell; Carol A. Grady; Joseph Carson; Thomas Henning; Dean C. Hines; Phil Hinz; Marc J. Kuchner; Amaya Moro-Martin; Marshall D. Perrin; Motohide Tamura; Gene Serabyn; Murray D. Silverstone; Miwa Goto; John P. Wisniewski
+
+
+304. Demographic Studies and the AAS
+Chair(s): Susana Deustua (Space Telescope Science Institute)
+Organizer(s): Susana Deustua (Space Telescope Science Institute)
+10:00 AM - 11:30 AM; National Harbor 3 (Gaylord National Resort and Convention Center)
+
+10:00 AM - 10:20 AM
+304. 01. The Importance of Demographic Data in Astronomy
+Debra M. Elmegreen
+
+10:20 AM - 10:40 AM
+304. 02. The AAS Workforce Survey
+Marc Postman; Dara J. Norman; Nancy R. Evans; Rachel Ivie
+
+10:40 AM - 11:00 AM
+304. 03. Results from the Longitudinal Study of Astronomy Graduate Students
+Rachel Ivie
+
+11:00 AM - 11:20 AM
+304. 04. The Importance of Longitudinal Studies
+Patricia Knezek
+
+
+305. Developing Career Opportunities in Science Policy and Industry at All Career Levels
+Chair(s): Mario Perez (NASA Headquarters)
+Organizer(s): Eileen Friel (Indiana University)
+10:00 AM - 11:30 AM; National Harbor 2 (Gaylord National Resort and Convention Center)
 
 
 307. Evolution of Local Group Galaxies
@@ -2123,6 +2526,32 @@ Qingqing Mao; Andreas A. Berlind; Robert Scherrer; Cameron McBride; Mark C. Neyr
 Nuala McCullagh; Alexander S. Szalay; Mark C. Neyrinck; Donghui Jeong
 
 
+314. Scientific Opportunities with the James Webb Space Telescope
+Chair(s): Jason Kalirai (Space Telescope Science Institute)
+Organizer(s): Jason Kalirai (Space Telescope Science Institute)
+10:00 AM - 11:30 AM; Maryland Ballroom B (Gaylord National Resort and Convention Center)
+
+10:00 AM - 10:18 AM
+314. 01. Supernova Forensics
+Alicia M. Soderberg
+
+10:18 AM - 10:36 AM
+314. 02. Observing the solar system with JWST
+Matthew S. Tiscareno; Heidi B. Hammel; James Norwood; Stefanie N. Milam; Jonathan I. Lunine; Nancy J. Chanover; John A. Stansberry; Dean C. Hines; George Sonneborn; Michael E. Brown; Pierre Ferruit
+
+10:36 AM - 10:54 AM
+314. 03. Directly Measuring the Low Mass IMF Outside the Milky Way with JWST
+Marla C. Geha
+
+10:54 AM - 11:12 AM
+314. 04. Insights into planetary systems through JWST imaging of debris disks
+Mark Wyatt
+
+11:12 AM - 11:30 AM
+314. 05. JWST Exoplanet Characterization: Big Opportunities for Small Planets Around Small Stars 
+John A. Johnson
+
+
 315. Stars
 Chair(s): Andrew West (Boston Univ.)
 10:00 AM - 11:30 AM; Maryland 2
@@ -2191,6 +2620,28 @@ Alexei Y. Poludnenko
 11:10 AM - 11:20 AM
 316. 07. Cosmological Constraints Measurements of Type Ia Supernovae Discovered during the first 1.5 Years of the Pan-STARRS1 Survey
 Armin Rest; Daniel Scolnic
+
+
+317. Time Domain Astronomy, the Large Synoptic Survey Telescope, and Transient Follow-up
+Chair(s): Jonathan Grindlay (Harvard-Smithsonian, CfA)
+Organizer(s): Michael Strauss (Princeton Univ.) and Jonathan Grindlay (Harvard-Smithsonian, CfA)
+10:00 AM - 11:30 AM; Potomac Ballroom D (Gaylord National Resort and Convention Center)
+
+10:00 AM - 10:15 AM
+317. 01. Synoptic Sky Surveys: Lessons Learned and Challenges Ahead
+Stanislav G. Djorgovski
+
+10:15 AM - 10:30 AM
+317. 02. Time-Domain Astrophysics: Results and Lessons from Pan-STARRS
+Edo Berger
+
+10:30 AM - 10:45 AM
+317. 03. Opportunities and challenges for time domain astronomy with LSST
+Zeljko Ivezic
+
+10:45 AM - 11:00 AM
+317. 04. Transients and Variable Stars: Followup in the Era of LSST
+Lucianne Walkowicz
 
 
 321. AGN Across the Spectrum: II
@@ -2391,6 +2842,32 @@ Sirinrat Sithajan; Jian Ge; Matthew W. Muterspaugh; Frank Varosi; Rui Li; Bo Ma;
 Neil Thomas; Jian Ge; Rui Li; Sirinrat Sithajan; Yunmei Chen; Jiangli Shi; Bo Ma; Jian Liu
 
 
+327. From Protostars to Lensed Galaxies: The Immense Riches from Herschel
+Chair(s): David Ardila (Caltech)
+Organizer(s): David Ardila (Caltech)
+2:00 PM - 3:30 PM; Maryland Ballroom C (Gaylord National Resort and Convention Center)
+
+2:00 PM - 2:10 PM
+327. 01. From Protostars to Lensed Galaxies: The Immense Riches from Herschel
+George Helou; Göran L. Pilbratt
+
+2:10 PM - 2:30 PM
+327. 02. Unraveling the Evolution of Protostars in Diverse Environments: The Herschel Orion Protostar Survey 
+S. Thomas Megeath
+
+2:30 PM - 2:50 PM
+327. 03. Herschel's Unique View of Nearby Galaxies
+Daniela Calzetti
+
+2:50 PM - 3:10 PM
+327. 04. Observations of Luminous Infrared Galaxies with Herschel
+Lee Armus
+
+3:10 PM - 3:30 PM
+327. 05. Herschel's Far-Infrared View of Galaxy Formation and Evolution 
+James Bock
+
+
 328. Galaxies II - Starbursts
 Chair(s): Sara Petty (Virginia Tech)
 2:00 PM - 3:30 PM; Potomac Ballroom C (Gaylord National Resort and Convention Center)
@@ -2520,6 +2997,12 @@ This presentation has been withdrawn. Withdrawn
 Jean P. Walker; Eric J. Gawiser; Nelson Padilla
 
 
+333. Public Policy: Perspectives from Congressional and White House Staff
+Chair(s): Jack Burns (Univ. of Colorado at Boulder)
+Organizer(s): Joel Parriott (AAS)
+2:00 PM - 3:30 PM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+
 334. Stars - Brown Dwarfs and YSOs
 Chair(s): Stanimir Metchev (UWO)
 2:00 PM - 3:30 PM; National Harbor 13 (Gaylord National Resort and Convention Center)
@@ -2617,19 +3100,115 @@ Meng Su
 3:20 PM - 3:30 PM
 336. 08. Morphology and gamma-ray spectrum of the Fermi bubbles
 Dmitry Malyshev; Anna Franckowiak; Vahe Petrosian
-View Presentation
-
- Include in Itinerary 
-
- 
- 
- 
 
 
+337. The Proper Use of GRE Scores and Noncognitive Measures for Enhancing Diversity and Excellence in Astronomy Graduate Programs
+Chair(s): Keivan Stassun (Vanderbilt University)
+Organizer(s): Keivan Stassun (Vanderbilt University)
+2:00 PM - 3:30 PM; National Harbor 5 (Gaylord National Resort and Convention Center)
 
-THURSDAY, JANUARY 09, 2014
- 	
- 	
+2:00 PM - 2:15 PM
+337. 01. Using Minimum Acceptable GRE Scores for Graduate Admissions Suppresses Diversity
+Casey Miller
+
+2:15 PM - 2:30 PM
+337. 02. Why Doesn't The GRE or GPA Work in Selecting Graduate Students & What Alternatives Are There ?
+William Sedlacek
+
+2:30 PM - 2:45 PM
+337. 03. Going beyond standardized exam scores in graduate admissions: Enhancing diversity and predicting success 
+Keivan Stassun
+
+2:45 PM - 3:30 PM
+Panel Discussion
+Lisa Idem
+
+
+339. Preparing for Future NASA Missions: The Strategic Astrophysics Technology Program
+Chair(s): Mario Perez (NASA Headquarters)
+Organizer(s): Mario Perez (NASA Headquarters)
+6:30 PM - 8:00 PM; National Harbor 2 (Gaylord National Resort and Convention Center)
+
+6:30 PM - 6:45 PM
+339. 01. Starshades for Exoplanet Imaging and Characterization
+N. J. Kasdin; Robert J. Vanderbei; Stuart Shaklan; Doug Lisman; Mark Thomson; Eric Cady; Bruce Macintosh; Dan Sirbu; Amy Lo
+
+6:45 PM - 7:00 PM
+339. 02. Next Generation X-ray Optics: High Angular Resolution, Light Weight, and Low Production Cost
+William Zhang
+
+7:00 PM - 7:15 PM
+339. 03. Advanced Antenna-Coupled Superconducting Detector Arrays for CMB Polarimetry
+James Bock
+
+7:15 PM - 7:30 PM
+339. 04. Cross strip anode readouts for microchannel plate detectors: developing flight qualified prototypes.
+John Vallerga; Michael Cooney; Rick Raffanti; Gary Varner; Oswald Siegmund; Jason B. McPhate; Anton Tremsin
+
+7:30 PM - 7:45 PM
+339. 05. Advanced Mirror Technology Development for Very Large Space Telescopes
+H. P. Stahl
+
+
+340. The Millimetron Space Mission
+Chair(s): Paul Goldsmith (JPL)
+Organizer(s): Paul Goldsmith (JPL)
+6:30 PM - 8:00 PM; National Harbor 10 (Gaylord National Resort and Convention Center)
+
+6:30 PM - 6:45 PM
+340. 01. Millimetron Mission and Instruments
+A. Smirnov
+
+6:45 PM - 7:00 PM
+340. 02. Millimetron and Earth-Space VLBI
+S. Likhachev
+
+7:00 PM - 7:15 PM
+340. 03. Millimetron and Submillimeter Spectroscopy
+Paul Goldsmith
+
+This presentation has been withdrawn. Withdrawn
+340. 04. Millimetron and the universe of galaxies and clusters
+Paolo de Bernardis
+
+7:30 PM - 7:45 PM
+340. 05. Millimetron Cosmology and Fundamental Physics
+Sergio Colafrancesco
+
+7:45 PM - 8:00 PM
+340. 06. Millimetron in the age of ALMA 
+Thijs de Graauw
+
+
+341. Wide Field InfraRed Space Telescope (WFIRST)
+Chair(s): Neil Gehrels (NASA's GSFC)
+Organizer(s): Neil Gehrels (NASA's GSFC) and David Spergel (Princeton Univ. Obs.)
+6:30 PM - 8:00 PM; National Harbor 3 (Gaylord National Resort and Convention Center)
+
+6:30 PM - 6:42 PM
+341. 01. How a 2.4 meter telescope makes WFIRST a more powerful and wide-randing mission
+David N. Spergel
+
+6:42 PM - 6:54 PM
+341. 02. Exoplanet Demographics with WFIRST-AFTA
+B. S. Gaudi
+
+6:54 PM - 7:06 PM
+341. 03. Coronagraphy on AFTA-WFIRST
+N. J. Kasdin; Olivier Guyon; Thomas P. Greene; Bruce Macintosh; Wesley A. Traub
+
+7:06 PM - 7:18 PM
+341. 04. WFIRST Supernova Dark Energy Program Capabilities
+Saul Perlmutter
+
+7:18 PM - 7:30 PM
+341. 05. WFIRST dark energy observations in the context of Euclid and LSST
+Rachel Bean
+
+7:30 PM - 7:42 PM
+341. 06. Galactic Science with WFIRST
+Lynne Hillenbrand
+
 
 401. A Melange of Circumstellar and Stellar Presentations
 Chair(s): Lee Mundy (Univ. of Maryland)
@@ -2683,6 +3262,74 @@ Jonathan R. Trump; W. N. Brandt; Benjamin J. Weiner; Stephanie Juneau
 11:00 AM - 11:10 AM
 402. 06. Exploring black hole seed formation and early growth at z>6
 Kevin Schawinski; Anna Weigel; Ezequiel Treister; C. M. Urry
+
+
+403. APOGEE - A Fresh View Into the Stellar Populations of the Milky Way
+Chair(s): Ricardo Schiavon (Liverpool John Moores Unversity)
+Organizer(s): Ricardo Schiavon (Liverpool John Moores Unversity)
+10:00 AM - 11:30 AM; National Harbor 3 (Gaylord National Resort and Convention Center)
+
+10:00 AM - 10:15 AM
+403. 01. Status of the Apache Point Observatory Galactic Evolution Experiment (APOGEE)
+Steven R. Majewski
+
+10:15 AM - 10:30 AM
+403. 02. Chemical Cartography with APOGEE 
+Jon A. Holtzman; Michael R. Hayden; Jo Bovy; Steven Majewski; Jennifer Johnson; Gail Zasowski; Leo Girardi; Carlos Allende-Prieto; Ana Elia Garcia Perez; Szabolcs Meszaros; David L. Nidever; Ricardo P. Schiavon; Matthew D. Shetrone
+
+10:30 AM - 10:45 AM
+403. 03. Mapping the Bulge Metallicity Distribution Function with APOGEE
+Ana Elia Garcia Perez; Jennifer Johnson; Katia M. Cunha; Carlos Allende-Prieto; Matthew D. Shetrone; Steven R. Majewski; Ricardo P. Schiavon; Peter M. Frinchaboy; Michael R. Hayden; David L. Nidever; Annie Robin; Mathias Schultheis ; Gail Zasowski
+
+10:45 AM - 11:00 AM
+403. 04. Exploring Stellar Populations and Asteroseismology with APOGEE and Kepler
+Courtney R. Epstein; Yvonne P. Elsworth; Matthew D. Shetrone; Benoit Mosser; Jamie Tayar; Paul Harding; Marc H. Pinsonneault; Víctor Silva Aguirre; Sarbani Basu; Dmitry Bizyaev; Tim Bedding; William J. Chaplin; Rafael Garcia; Ana Elia Garcia Perez; Fred Hearty; Saskia Hekker; Daniel Huber; Inese I. Ivans; Steven Majewski; Savita Mathur; Aldo Serenelli; Ricardo P. Schiavon; Ralph Schoenrich; Jennifer Sobeck; Gail Zasowski
+
+11:00 AM - 11:10 AM
+403. 05. Exploring the Diffuse Interstellar Medium with SDSS-III APOGEE
+Gail Zasowski; Brice Ménard; Steven Majewski; Mathias Schultheis ; Kristen Sellgren
+
+11:10 AM - 11:20 AM
+403. 06. CHARACTERIZING KEPLER ECLIPSING BINARIES & PLANET HOSTS WITH SDSS-III APOGEE
+Suvrath Mahadevan
+
+11:20 AM - 11:30 AM
+403. 07. The APOGEE view of Be stars
+Stephen S. Eikenberry; S. Drew Chojnowski; John P. Wisniewski; Steven R. Majewski; Matthew D. Shetrone; David G. Whelan; Dmitry Bizyaev; H. Jacob Borish; James R. Davenport; Garrett Ebelke; Diane Feuillet; Alan Garner; Fred Hearty; Jon A. Holtzman; Zhi-Yun Li; Sz Meczaros; David L. Nidever; Donald P. Schneider; Michael F. Skrutskie; John C. Wilson; Gail Zasowski
+
+
+404. Astronomy Across Africa: A New Dawn
+Chair(s): Kartik Sheth (NRAO)
+Organizer(s): Kartik Sheth (NRAO)
+10:00 AM - 11:30 AM; Maryland 1
+
+10:00 AM - 10:10 AM
+404. 01. Astronomy Across Africa
+Ted Williams
+
+10:10 AM - 10:25 AM
+404. 02. Dissecting galaxies with the Southern African Large Telescope (SALT)
+Ilani Loubser
+
+10:25 AM - 10:40 AM
+404. 03. Legacy Science Surveys with the MeerKAT
+Sarah Blyth
+
+10:40 AM - 10:55 AM
+404. 04. Exploring Our Cosmic Dawn from South Africa
+Aaron Parsons
+
+10:55 AM - 11:05 AM
+404. 05. Building the Next Generation of Scientists with US-Africa Exchange Programs
+Kartik Sheth
+
+11:05 AM - 11:15 AM
+404. 06. Astronomy for Development in Africa
+Jean-Christophe Mauduit
+
+11:15 AM - 11:25 AM
+404. 07. Vision for Astronomy in South Africa and partnership with the US
+Takalani Nemaungani
 
 
 405. Binary Systems - Dwarfs and Giants
@@ -2938,6 +3585,11 @@ Jeffrey C. Hall; Paul D. Shankland; Richard F. Green; Buell Jannuzi
 Constance E. Walker; Richard F. Green
 
 
+414. CANCELLED Science Highlights from NASA’s Astrophysics Data Analysis Program 
+Organizer(s): Douglas Hudgins (NASA Headquarters)
+10:00 AM - 11:30 AM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+
 415. Stellar Evolution I 
 Chair(s): John Martin (U of Illinois Springfield)
 10:00 AM - 11:30 AM; Potomac Ballroom C (Gaylord National Resort and Convention Center)
@@ -2965,6 +3617,32 @@ Justin Brown; Pascale Garaud; Stan E. Woosley
 11:20 AM - 11:30 AM
 415. 06. In situ Ca and Mg abundancies in the stellar halo of the Galaxy
 Emma Fernandez-Alvar; Carlos Allende-Prieto
+
+
+416. The Nuclear Spectroscopic Telescope Array (NuSTAR)
+Chair(s): Daniel Stern (JPL/ Caltech)
+Organizer(s): Daniel Stern (JPL/ Caltech)
+10:00 AM - 11:30 AM; Potomac Ballroom D (Gaylord National Resort and Convention Center)
+
+10:00 AM - 10:18 AM
+416. 01. The Nuclear Spectroscopic Telescope Array (NuSTAR)
+Daniel Stern
+
+10:18 AM - 10:36 AM
+416. 02. NuSTAR Observations of the Cassiopeia A Supernova Remnant
+Brian Grefenstette
+
+10:36 AM - 10:54 AM
+416. 03. NuSTAR Reveals Intrinsically X-ray Weak Broad Absorption Line (BAL) Quasars 
+Stacy H. Teng; W. N. Brandt; Bin Luo; Fiona Harrison
+
+10:54 AM - 11:12 AM
+416. 04. The NuSTAR Black Hole Spin Program
+Dom Walton
+
+11:12 AM - 11:30 AM
+416. 05. A first look at the distant high energy X-ray population with NuSTAR
+Francesca M. Civano
 
 
 417. Young Stellar Objects I
@@ -3120,6 +3798,48 @@ John H. Debes; Luis Nunez-Quiroga; Glenn Schneider; Joseph Carson; Miwa Goto; Ca
 David R. Ardila; Gregory Herczeg; Christopher M. Johns-Krull; Robert D. Mathieu; Alberto Vodniza; Benjamin M. Tofflemire
 
 
+425. Clouds in Brown Dwarfs and Giant Planets
+Chair(s): Stanimir Metchev (SUNY Stony Brook)
+Organizer(s): Stanimir Metchev (SUNY Stony Brook)
+2:00 PM - 3:30 PM; National Harbor 3 (Gaylord National Resort and Convention Center)
+
+2:00 PM - 2:12 PM
+425. 01. Clouds and Binaries Across the L/T Transition
+Adam J. Burgasser
+
+2:12 PM - 2:24 PM
+425. 02. Brown Dwarf Variability: What's Varying and Why?
+Mark S. Marley
+
+2:24 PM - 2:36 PM
+425. 03. Brown Dwarf Variability: Past, Present, and Future
+Jacqueline Radigan
+
+2:36 PM - 2:42 PM
+425. 04. Weather on Other Worlds: Results from Variability Monitoring of an Unbiased Sample of L and T Dwarfs with Spitzer 
+Stanimir A. Metchev
+
+2:42 PM - 2:54 PM
+425. 05. Spectral Mapping and Long-Term Monitoring: Details and Dynamics of Condensate Cloud Layers
+Daniel Apai; Esther Buenzli; Davin C. Flateau; Stanimir Metchev; Jacqueline Radigan; Mark S. Marley; Adam P. Showman; Iain N. Reid; Hao Yang; Aren Heinze; Theodora Karalidi; Adam J. Burgasser; Patrick Lowrance; Etienne Artigau; Subhanjoy Mohanty
+
+2:54 PM - 3:00 PM
+425. 06. Mapping Clouds on Brown Dwarfs
+Ian Crossfield; Beth Biller; Josh Schlieder; Niall Deacon; Mickael Bonnefoy; Derek Homeier; France Allard; Esther Buenzli; Thomas Henning; Wolfgang Brandner; Bertrand Goldman; Taisiya Kopytova
+
+3:00 PM - 3:12 PM
+425. 07. Atmospheric Dynamics of Brown Dwarfs and Directly Imaged Giant Planets
+Adam P. Showman; Yohai Kaspi
+
+3:12 PM - 3:24 PM
+425. 08. Are Y Dwarfs Partly Cloudy?
+Michael Cushing
+
+3:24 PM - 3:30 PM
+425. 09. A Mid-Infrared View of Clouds on Extrasolar Planets
+Andy Skemer
+
+
 426. Cosmology & CMB VI
 Chair(s): Renee Hlozek (Princeton University)
 2:00 PM - 3:30 PM; National Harbor 13 (Gaylord National Resort and Convention Center)
@@ -3209,6 +3929,32 @@ Elisa Toloba; Puragra Guhathakurta; Glenn van de Ven; Alessandro Boselli; Thorst
 3:20 PM - 3:30 PM
 428. 07. X-ray Binaries and Feedback in Lyman-α Galaxies
 Andrea H. Prestwich; Floyd Jackson; Philip Kaaret; Matthew Brorby; Timothy P. Roberts; Steven H. Saar
+
+
+429. Emerging Impacts on Structure Formation and AGN Science from NanoHz Gravitational Wave Studies
+Chair(s): Sarah Spolaor (Jet Propulsion Laboratory)
+Organizer(s): Sarah Spolaor (Jet Propulsion Laboratory)
+2:00 PM - 3:30 PM; Maryland 1
+
+2:00 PM - 2:12 PM
+429. 01. A Crash Course in using Pulsars to Detect Gravitational Waves
+Andrea N. Lommen
+
+2:12 PM - 2:24 PM
+429. 02. When will NANOGrav detect gravitational waves?
+Xavier Siemens
+
+2:24 PM - 2:36 PM
+429. 03. Electromagnetic Signatures of Supermassive Binaries and their Hosts 
+Jeremy Schnittman
+
+2:36 PM - 2:48 PM
+429. 04. I Get By With A Little Help From My Friends: Enhancing PTA Sensitivity to GWs With EM Counterparts
+Justin Ellis; Sarah Burke-Spolaor
+
+2:48 PM - 3:00 PM
+429. 05. Probing Massive Black Hole Binaries with Pulsar Timing Arrays
+Alberto Sesana
 
 
 430. Extrasolar Planet Detection - M Dwarfs and Young Stars
@@ -3346,6 +4092,36 @@ Marc H. Pinsonneault; Jamie Tayar
 This presentation has been withdrawn. Withdrawn
 434. 06. Studying Magnetic Fields in Young Stellar Objects with MoogStokes
 Casey Deen; Daniel T. Jaffe; Wolfgang Brandner; Christopher M. Johns-Krull
+
+
+435. The Exciting Future of Cosmic Microwave Background Measurements
+Chair(s): Jeff McMahon (University of Michigan, Ann Arbor)
+Organizer(s): Jens Chluba (Johns Hopkins University) and Jeff McMahon (University of Michigan, Ann Arbor)
+2:00 PM - 3:30 PM; Potomac Ballroom D (Gaylord National Resort and Convention Center)
+
+2:00 PM - 2:15 PM
+435. 01. Planck and the State of the Art in CMB Measurements
+Charles R. Lawrence
+
+2:15 PM - 2:30 PM
+435. 02. What we know and what we don't know about the CMB spectrum 
+John C. Mather
+
+2:30 PM - 2:45 PM
+435. 03. Cosmic Microwave Background as a Probe of the Low Redshift Universe
+David N. Spergel
+
+2:45 PM - 3:00 PM
+435. 04. Constraints on Inflation from Polarization and CMB Spectral Distortions
+Marc Kamionkowski
+
+3:00 PM - 3:15 PM
+435. 05. The Once and Future Signal: CMB Science from Sub-orbital and Proposed Satellite Missions
+Alan J. Kogut
+
+3:15 PM - 3:15 PM
+435. 06. Latest CMB Measurement Results
+James Bock
 
 
 436. Young Stellar Objects II
