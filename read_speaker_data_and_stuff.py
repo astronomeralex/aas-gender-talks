@@ -56,3 +56,4 @@ dupl = [x for x, y in collections.Counter(data['talk']).items() if y > 1]
 print "Duplicate talks after cleaning: ", dupl
 
 
+ascii.write( data, "data/questions.dat" )
