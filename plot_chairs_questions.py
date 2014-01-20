@@ -1,22 +1,13 @@
 #!/usr/bin/env python
 # -----------------------------------------------------------------------------
 # CHAIRS_QUESTIONS
+# question gender histograms split by chair gender
 # -----------------------------------------------------------------------------
 
 import astropy.io.ascii as ascii
 from matplotlib.pyplot import *
 from numpy import *
 import string
-
-
-# set up plotting
-rc( "font", family="serif" )
-rc( "text", usetex=True )
-rc( "xtick", labelsize=10 )
-rc( "ytick", labelsize=10 )
-rc( "axes", labelsize=10, titlesize=14 )
-rc( "legend", fontsize=9 )
-rc( "patch", ec="None" )
 
 
 # read data
@@ -30,15 +21,15 @@ qs = array( [ "" ] * 1000 ).astype( "S2" )
 count = 0
 
 for d in data:
+    
     wh = where( talk["id"] == d["talk"] )
     
-    # if not size( wh ): print d["talk"], "NOT FOUND"
-    
     if size( wh ):
+        
         match = talk[wh]["speaker"] == string.lower( d["speaker"] )
-        # if not match:
-        #     print d["talk"], talk[wh]["speaker"][0], string.lower( d["speaker"] )
+        
         if match:
+            
             chair = sess[ sess["id"] == int( d["talk"] ) ]["chair"][0]
             for q in d["questions"]:
                 qs[count] = "{:}{:}".format( chair, string.lower( q ) )
@@ -91,21 +82,21 @@ xticks( unique(qq), ( "FC FQ", "FC MQ", "MC FQ", "MC MQ" ) )
 ylabel( "Number" )
 
 # histograms
-hist( qq, bins=1, range=(0.6,1.00), color="green", alpha=0.75 )
-hist( qq, bins=1, range=(1.00,1.4), color="blue", alpha=0.75 )
-hist( qq, bins=1, range=(1.6,2.00), color="green", alpha=0.75 )
-hist( qq, bins=1, range=(2.00,2.4), color="blue", alpha=0.75 )
+hist( qq, bins=1, range=(0.6,1.0), color="g", alpha=0.75 )
+hist( qq, bins=1, range=(1.0,1.4), color="b", alpha=0.75 )
+hist( qq, bins=1, range=(1.6,2.0), color="g", alpha=0.75 )
+hist( qq, bins=1, range=(2.0,2.4), color="b", alpha=0.75 )
 
 # print f/m numbers and percentages
-text( 0.8, nff + 0.1 * ymax, "{:}".format( nff ), ha="center" )
-text( 1.2, nfm + 0.1 * ymax, "{:}".format( nfm ), ha="center" )
-text( 1.8, nmf + 0.1 * ymax, "{:}".format( nmf ), ha="center" )
-text( 2.2, nmm + 0.1 * ymax, "{:}".format( nmm ), ha="center" )
+text( 0.8, nff + 0.1 * ymax, "{:}".format( nff ), ha="center", size=10 )
+text( 1.2, nfm + 0.1 * ymax, "{:}".format( nfm ), ha="center", size=10 )
+text( 1.8, nmf + 0.1 * ymax, "{:}".format( nmf ), ha="center", size=10 )
+text( 2.2, nmm + 0.1 * ymax, "{:}".format( nmm ), ha="center", size=10 )
 
-text( 0.8, nff + 0.02 * ymax, "({:.1f}\%)".format( pff ), ha="center" )
-text( 1.2, nfm + 0.02 * ymax, "({:.1f}\%)".format( pfm ), ha="center" )
-text( 1.8, nmf + 0.02 * ymax, "({:.1f}\%)".format( pmf ), ha="center" )
-text( 2.2, nmm + 0.02 * ymax, "({:.1f}\%)".format( pmm ), ha="center" )
+text( 0.8, nff + 0.02 * ymax, "({:.1f}\%)".format( pff ), ha="center", size=10 )
+text( 1.2, nfm + 0.02 * ymax, "({:.1f}\%)".format( pfm ), ha="center", size=10 )
+text( 1.8, nmf + 0.02 * ymax, "({:.1f}\%)".format( pmf ), ha="center", size=10 )
+text( 2.2, nmm + 0.02 * ymax, "({:.1f}\%)".format( pmm ), ha="center", size=10 )
 
 # show and save
 show()
