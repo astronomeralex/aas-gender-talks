@@ -1,3 +1,12 @@
+101. Kavli Foundation Lecture: The Hubble Deep Field and its Legacy
+Chair(s): David Helfand (Quest University Canada)
+8:30 AM - 9:20 AM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+8:30 AM - 9:20 AM
+101. 01. The Hubble Deep Field and its Legacy
+Robert E. Williams
+
+
 102. Cosmology & CMB I
 Chair(s): Alan Kogut (NASA's GSFC)
 10:00 AM - 11:30 AM; Potomac Ballroom D (Gaylord National Resort and Convention Center)
@@ -569,7 +578,7 @@ Chair(s): Thomas Ayres (University of Colorado)
 Melissa Pesce-Rollins; Nicola Omodei; Vahe Petrosian
 
 10:10 AM - 10:30 AM
-118.03D. STUDYING THE POLARIZATION OF HARD X-RAY SOLAR FLARES WITH THE GAMMA RAY POLARIMETER EXPERIMENT (GRAPE)
+118. 03D. STUDYING THE POLARIZATION OF HARD X-RAY SOLAR FLARES WITH THE GAMMA RAY POLARIMETER EXPERIMENT (GRAPE)
 Camden Ertley
 
 10:30 AM - 10:40 AM
@@ -587,6 +596,15 @@ Jeffrey S. Oishi; Mordecai-Mark Mac Low; David C. Collins
 11:00 AM - 11:10 AM
 118. 06. Reflection and Wave Coupling of Torsional Alfven Waves in 3D Solar Magnetic Flux Tubes 
 Zdzislaw E. Musielak; Krzysztof Murawski; Abhishek K. Srivastava
+
+
+119. Linking Visualization and Understanding in Astronomy
+Chair(s): Edward Churchwell (Univ. of Wisconsin)
+11:40 AM - 12:30 PM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+11:40 AM - 12:30 PM
+119. 01. Linking Visualization and Understanding in Astronomy
+Alyssa A. Goodman
 
 
 125. Variable Stars
@@ -1096,6 +1114,24 @@ Christopher D'Andrea
 Eli S. Rykoff
 
 
+142. Henry Norris Russell Lecture: New Developments in Galactic Archaeology
+Chair(s): David Helfand (Quest University Canada)
+3:40 PM - 4:30 PM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+3:40 PM - 4:30 PM
+142. 01. New Developments in Galactic Archaeology
+Kenneth C. Freeman
+
+
+143. HAD Doggett Prize Lecture: Applied Historical Astronomy
+Chair(s): Jarita Holbrook (University of the Western Cape)
+4:30 PM - 5:20 PM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+4:30 PM - 5:20 PM
+143. 01. Applied Historical Astronomy
+F. Richard Stephenson
+
+
 159. Developing Our Own Future: Undergraduate Research and Enrichment Through Peer-Led Programs
 Chair(s): Gina Brissenden (Center for Astronomy Education (CAE), Steward Observatory, Univ. of Arizona)
 Organizer(s): Gina Brissenden (Center for Astronomy Education (CAE), Steward Observatory, Univ. of Arizona)
@@ -1131,6 +1167,15 @@ Amanda Walker-LaFollette; Allison P. Towner; Kevin Hardegree-Ullman; Gina Brisse
 
 3:10 PM - 3:30 PM
 Speaker Panel Questions and Open Discussion
+
+
+200. The Thick and Thin Disks in Spiral Galaxies
+Chair(s): Edward Churchwell (Univ. of Wisconsin)
+8:30 AM - 9:20 AM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+8:30 AM - 9:20 AM
+200. 01. The Thick and Thin Disks in Spiral Galaxies
+Rosemary F. Wyse
 
 
 202. Instrumentation III: Ground or Airborne Missions
@@ -1487,7 +1532,7 @@ Organizer(s): Michael Skrutskie (Univ. Of Virginia)
 Lisa J. Storrie-Lombardi
 
 10:05 AM - 10:25 AM
-214.05. Spitzer’s Past and Future Exoplanet Legacy
+214. 05. Spitzer’s Past and Future Exoplanet Legacy
 Sara Seager
 
 10:25 AM - 10:45 AM
@@ -1680,6 +1725,15 @@ This presentation has been withdrawn. Withdrawn
 Alan Gersch; Michael F. A'Hearn; Lori M. Feaga
 
 
+219. Cannon Award: Giant Planets in Dusty Disks
+Chair(s): David Helfand (Quest University Canada)
+11:40 AM - 12:30 PM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+11:40 AM - 12:30 PM
+219. 01. Giant Planets in Dusty Disks
+Sarah E. Dodson-Robinson; Erik Brugamyer; Jens Teiser
+
+
 223. AGN Theory and Techniques
 Chair(s): Giovanni Fossati (Rice Univ.)
 2:00 PM - 3:30 PM; National Harbor 11 (Gaylord National Resort and Convention Center)
@@ -1726,7 +1780,7 @@ Chair(s): Catharine Garmany (NOAO)
 Christine O'Donnell; Beth Cunningham; Jack G. Hehn
 
 2:10 PM - 2:20 PM
-224.02. Impact of NASA's Astrophysics Education and Public Outreach Programs
+224. 02. Impact of NASA's Astrophysics Education and Public Outreach Programs
 Denise A. Smith; Hashima Hasan
 
 2:20 PM - 2:30 PM
@@ -1834,7 +1888,7 @@ This presentation has been withdrawn. Withdrawn
 Jeremiah K. Darling
 
 3:20 PM - 3:30 PM
-226.09. A Novel Suite of Hydrodynamical Simulations of the Lyman-Alpha Forest with Massive Neutrinos 
+226. 09. A Novel Suite of Hydrodynamical Simulations of the Lyman-Alpha Forest with Massive Neutrinos 
 Graziano Rossi; Nathalie Palanque-Delabrouille; Christophe Yeche; Matteo Viel; James Rich; Jean-Marc LeGoff; Arnaud Borde
 
 
@@ -1921,7 +1975,7 @@ Remi Soummer; Travis S. Barman; Christine Chen; Elodie Choquet; Thomas Comeau; J
 Stephen Ammons; Bruce Macintosh; Dmitry Savransky; Christian Marois; Benoit Neichel; Olivier Guyon; Eduardo Bendek
 
 2:50 PM - 3:00 PM
-229.05. Kappa Andromedae B: New Constraints on the Companion Mass, System Age and Further Multiplicity 
+229. 05. Kappa Andromedae B: New Constraints on the Companion Mass, System Age and Further Multiplicity 
 Sasha Hinkley; Laurent Pueyo; Jacqueline K. Faherty; Ben R. Oppenheimer; Eric E. Mamajek; Adam L. Kraus; Emily L. Rice; Michael Ireland; Trevor David; Lynne Hillenbrand; Gautam Vasisht; Eric Cady; Douglas Brenner; Aaron Veicht; Ricky Nilsson; Neil Zimmerman; Ian Parry; Charles A. Beichman; Richard Dekany; Lewis C. Roberts; Christoph Baranec; Justin R. Crepp
 
 
@@ -2190,6 +2244,37 @@ Marc W. Pound; Farhad Yusef-Zadeh
 3:10 PM - 3:20 PM
 238. 07. Multi-epoch Measurements of the Galactic Center (~6667 MHz) and the Blazar 0716+714 (1 & 3 MHz) taken from the Allen Telescope Array at Hat Creek Radio Observatory in 2013
 Aaron Castellanos; Gerald Harp
+
+
+239. Heineman Prize: The Formation of Galaxies and Supermassive Black Holes: Insights and Puzzles
+Chair(s): Catherine O'Riordan (AIP)
+3:40 PM - 4:30 PM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+3:40 PM - 4:30 PM
+239. 01. The Formation of Galaxies and Supermassive Black Holes: Insights and Puzzles
+Rachel S. Somerville
+
+
+240. HEAD Rossi Prize: The Amazing Pulsar Machine, Alice K. Harding and The Pulsing Gamma-ray Sky, Roger Romani
+Chair(s): Joel Bregman (Univ. of Michigan)
+4:30 PM - 5:20 PM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+4:30 PM - 4:55 PM
+240. 01. The Amazing Pulsar Machine
+Alice K. Harding
+
+4:55 PM - 5:20 PM
+240. 02. The Pulsing Gamma-ray Sky
+Roger W. Romani
+
+
+300. Pierce Prize: Exploring the Stellar Graveyard of the Milky Way
+Chair(s): David Helfand (Quest University Canada)
+8:30 AM - 9:20 AM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+8:30 AM - 9:20 AM
+300. 01. Exploring the Stellar Graveyard of the Milky Way
+Jason S. Kalirai
 
 
 301. AGN Across the Spectrum: I
@@ -2644,6 +2729,15 @@ Zeljko Ivezic
 Lucianne Walkowicz
 
 
+318. Warner Prize: The Origin of Stellar Masses
+Chair(s): David Helfand (Quest University Canada)
+11:40 AM - 12:30 PM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+11:40 AM - 12:30 PM
+318. 01. The Origin of Stellar Masses
+Mark R. Krumholz
+
+
 321. AGN Across the Spectrum: II
 Chair(s): Dale Kocevski (University of California, Santa Cruz)
 2:00 PM - 3:30 PM; National Harbor 11 (Gaylord National Resort and Convention Center)
@@ -2776,7 +2870,7 @@ Anne Medling; Vivian U; Javiera Guedes; Claire E. Max; Lucio Mayer; Lee Armus; B
 Jeyhan S. Kartaltepe
 
 3:10 PM - 3:30 PM
-324.07D. Photometric Study of Massive Evolved Galaxies in the CANDELS GOODS-S at z>3
+324. 07D. Photometric Study of Massive Evolved Galaxies in the CANDELS GOODS-S at z>3
 Hooshang Nayyeri; Bahram Mobasher; Henry C. Ferguson; Tommy Wiklind; Shoubaneh Hemmati; Stephane De Barros; Adriano Fontana; Tomas Dahlen; Anton M. Koekemoer
 
 
@@ -3124,6 +3218,15 @@ Panel Discussion
 Lisa Idem
 
 
+338. Astronomy and Public Policy
+Chair(s): Paula Szkody (Univ. of Washington)
+4:30 PM - 5:20 PM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+4:30 PM - 5:20 PM
+338. 01. Astronomy and Public Policy
+Nicholas B. Suntzeff
+
+
 339. Preparing for Future NASA Missions: The Strategic Astrophysics Technology Program
 Chair(s): Mario Perez (NASA Headquarters)
 Organizer(s): Mario Perez (NASA Headquarters)
@@ -3208,6 +3311,24 @@ Rachel Bean
 7:30 PM - 7:42 PM
 341. 06. Galactic Science with WFIRST
 Lynne Hillenbrand
+
+
+342. ESO: Present and Future
+Chair(s): Fred Lo (Associated Universities)
+7:00 PM - 8:00 PM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+7:00 PM - 7:50 PM
+342. 01. ESO: Present and Future
+P. T. de Zeeuw
+
+
+400. Engineering Considerations for Large Astrophysics Projects
+Chair(s): Chryssa Kouveliotou (NASA/MSFC)
+8:30 AM - 9:20 AM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+8:30 AM - 9:20 AM
+400. 01. Engineering considerations for large astrophysics projects
+David W. Hogg
 
 
 401. A Melange of Circumstellar and Stellar Presentations
@@ -3670,8 +3791,17 @@ Stacie Powell; David W. Latham; Michael Irwin; Jerome Bouvier; Cathie Clarke; St
 Krzysztof Findeisen
 
 11:10 AM - 11:30 AM
-417.06D. OBSERVATIONS OF WARM WATER AND VOLATILES IN YOUNG PROTOPLANETARY DISKS, AND THE CONNECTION TO DISK EVOLUTION AND PLANET FORMATION
+417. 06D. OBSERVATIONS OF WARM WATER AND VOLATILES IN YOUNG PROTOPLANETARY DISKS, AND THE CONNECTION TO DISK EVOLUTION AND PLANET FORMATION
 Andrea Banzatti; Michael Meyer; Klaus Pontoppidan
+
+
+418. An Astronomical Time Machine: Light Echoes from Historic Supernovae and Stellar Eruptions
+Chair(s): Paula Szkody (Univ. of Washington)
+11:40 AM - 12:30 PM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+11:40 AM - 12:30 PM
+418. 01. An Astronomical Time Machine: Light Echoes from Historic Supernovae and Stellar Eruptions
+Armin Rest
 
 
 421. AGN at Radio to IR Wavelengths
@@ -4145,5 +4275,23 @@ Mordecai-Mark Mac Low; Thomas Peters; Pamela Klaassen; Martin Schrön; Ralf Kles
 Megan Reiter; Nathan Smith
 
 2:50 PM - 3:10 PM
-436.05D. Cep OB3b: A Multi-Wavelength Survey of a Nearby Rich Young Stellar Cluster 
+436. 05D. Cep OB3b: A Multi-Wavelength Survey of a Nearby Rich Young Stellar Cluster 
 Thomas Allen; S. Thomas Megeath; Jakub Prchlik; Robert A. Gutermuth; Judith Pipher; Tim Naylor; Rob Jeffries; Scott J. Wolk
+
+
+437. AIP Gemant Award Lecture: Star Trek: The Search for the First Alleged Crab Supernova Rock Art
+Chair(s): Catherine O'Riordan (AIP)
+3:40 PM - 4:30 PM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+3:40 PM - 4:30 PM
+437. 01. Star Trek: The Search for the First Alleged Crab Supernova Rock Art
+E. C. Krupp
+
+
+460. Berkeley Prize: Using the SDO Atmospheric Imaging Assembly to Study Solar Activity
+Chair(s): David Helfand (Quest University Canada)
+4:30 PM - 5:20 PM; Potomac Ballroom A (Gaylord National Resort and Convention Center)
+
+4:30 PM - 5:20 PM
+460. 01. Using the SDO Atmospheric Imaging Assembly to Study Solar Activity
+James Lemen

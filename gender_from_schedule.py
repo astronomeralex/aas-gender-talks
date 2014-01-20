@@ -116,7 +116,19 @@ for i in range( size( lines ) ):
         if fullname == "Hyunsung David Jun": speaker = "David"
         if fullname == "W. N. Brandt": speaker = "Niel"
         if fullname == "Myungkook J. Jee": speaker = "James"
+        if fullname == "F. Richard Stephenson": speaker = "Richard"
+        if fullname == "P. T. de Zeeuw": speaker = "Tim"
+        if fullname == "E. C. Krupp": speaker = "Edwin"
         speaker_gender = get_gender( speaker )
+        
+        if fullname == "Remi Soummer": speaker_gender = "m"
+        if fullname == "Sasha Hinkley": speaker_gender = "m"
+        if fullname == "Korey Haynes": speaker_gender = "f"
+        if fullname == "Kaisey Mandel": speaker_gender = "m"
+        if fullname == "Yuan Li": speaker_gender = "f"
+        if fullname == "Taehyun Kim": speaker_gender = "f"
+        if fullname == "Li Zeng": speaker_gender = "m"
+        if fullname == "": speaker_gender = ""
         
         # print when gender unknown
         if speaker_gender == "x": print talkid, fullname
