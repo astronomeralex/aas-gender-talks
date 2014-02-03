@@ -128,7 +128,9 @@ for i in range( size( lines ) ):
         if fullname == "Yuan Li": speaker_gender = "f"
         if fullname == "Taehyun Kim": speaker_gender = "f"
         if fullname == "Li Zeng": speaker_gender = "m"
-        if fullname == "": speaker_gender = ""
+        if fullname == "Keivan Stassun": speaker_gender = "f" # subs speaker f
+        if fullname == "Yu Lu": speaker_gender = "m"
+        if fullname == "Sanlyn Buxner": speaker_gender = "m"
         
         # print when gender unknown
         if speaker_gender == "x": print talkid, fullname
