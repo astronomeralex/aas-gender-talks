@@ -16,7 +16,6 @@ results <- rep(0, 151)
 talks <- rep(0, 151)
 
 n <- 1
-#for (i in 1:2) {
   
 for (i in 1:(NROW(talkmain)-1)) {
   mainid <- talkmain[i]
