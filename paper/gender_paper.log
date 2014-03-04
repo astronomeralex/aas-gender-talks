@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  4 MAR 2014 16:13
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  4 MAR 2014 16:38
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -505,69 +505,69 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 50.
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 66.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 67.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 66.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 67.
  [1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<speakers_data.pdf, id=52, 289.08pt x 216.81pt>
+<speakers_data.pdf, id=55, 289.08pt x 216.81pt>
 File: speakers_data.pdf Graphic file (type pdf)
  <use speakers_data.pdf>
-Package pdftex.def Info: speakers_data.pdf used on input line 82.
+Package pdftex.def Info: speakers_data.pdf used on input line 83.
 (pdftex.def)             Requested size: 234.87749pt x 176.15768pt.
 
-<questions.pdf, id=53, 289.08pt x 216.81pt>
+<questions.pdf, id=56, 289.08pt x 216.81pt>
 File: questions.pdf Graphic file (type pdf)
  <use questions.pdf>
-Package pdftex.def Info: questions.pdf used on input line 83.
+Package pdftex.def Info: questions.pdf used on input line 84.
 (pdftex.def)             Requested size: 234.87749pt x 176.15768pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--84
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
 $[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--84
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
 
  []
 
-<n_question_gender.pdf, id=54, 505.89pt x 361.35pt>
+<n_question_gender.pdf, id=57, 505.89pt x 361.35pt>
 File: n_question_gender.pdf Graphic file (type pdf)
 
 <use n_question_gender.pdf>
-Package pdftex.def Info: n_question_gender.pdf used on input line 90.
+Package pdftex.def Info: n_question_gender.pdf used on input line 91.
 (pdftex.def)             Requested size: 252.94499pt x 180.67456pt.
 
-Overfull \hbox (7.67847pt too wide) in paragraph at lines 90--91
+Overfull \hbox (7.67847pt too wide) in paragraph at lines 91--92
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--91
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
 $[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--91
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
 
  []
 
-<speakers_questions.pdf, id=58, 289.08pt x 216.81pt>
+<speakers_questions.pdf, id=61, 289.08pt x 216.81pt>
 File: speakers_questions.pdf Graphic file (type pdf)
 
 <use speakers_questions.pdf>
-Package pdftex.def Info: speakers_questions.pdf used on input line 115.
+Package pdftex.def Info: speakers_questions.pdf used on input line 116.
 (pdftex.def)             Requested size: 234.87749pt x 176.15768pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--116
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
 $[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--116
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
 
  []
 
@@ -575,111 +575,124 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--116
 
 pdfTeX warning: /usr/texbin/pdflatex (file ./questions.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./n_question_gender.pdf> <./speakers_questions.pdf
+> <./n_question_gender.pdf>]
 
-pdfTeX warning: /usr/texbin/pdflatex (file ./speakers_questions.pdf): PDF inclu
-sion: multiple pdfs with page group included in a single page
->] <speakers.pdf, id=102, 289.08pt x 216.81pt>
+LaTeX Warning: A float is stuck (cannot be placed) on input line 132.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 132.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+<speakers.pdf, id=98, 289.08pt x 216.81pt>
 File: speakers.pdf Graphic file (type pdf)
  <use speakers.pdf>
-Package pdftex.def Info: speakers.pdf used on input line 149.
+Package pdftex.def Info: speakers.pdf used on input line 150.
 (pdftex.def)             Requested size: 252.94499pt x 189.70827pt.
 
-<chairs.pdf, id=103, 289.08pt x 216.81pt>
+<chairs.pdf, id=99, 289.08pt x 216.81pt>
 File: chairs.pdf Graphic file (type pdf)
  <use chairs.pdf>
-Package pdftex.def Info: chairs.pdf used on input line 150.
+Package pdftex.def Info: chairs.pdf used on input line 151.
 (pdftex.def)             Requested size: 252.94499pt x 189.70827pt.
 
-Overfull \hbox (7.67847pt too wide) in paragraph at lines 149--151
+Overfull \hbox (7.67847pt too wide) in paragraph at lines 150--152
  [][] 
  []
 
 
-Overfull \hbox (7.67847pt too wide) in paragraph at lines 149--151
+Overfull \hbox (7.67847pt too wide) in paragraph at lines 150--152
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--151
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
 $[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--151
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
 
  []
 
-[3 <./speakers.pdf> <./chairs.pdf
+[3 <./speakers_questions.pdf> <./speakers.pdf
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./speakers.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+> <./chairs.pdf
 
 pdfTeX warning: /usr/texbin/pdflatex (file ./chairs.pdf): PDF inclusion: multip
 le pdfs with page group included in a single page
->] <chairs_questions.pdf, id=128, 289.08pt x 216.81pt>
+>] <chairs_questions.pdf, id=131, 289.08pt x 216.81pt>
 File: chairs_questions.pdf Graphic file (type pdf)
 
 <use chairs_questions.pdf>
-Package pdftex.def Info: chairs_questions.pdf used on input line 167.
+Package pdftex.def Info: chairs_questions.pdf used on input line 168.
 (pdftex.def)             Requested size: 252.94499pt x 189.70827pt.
 
-Overfull \hbox (7.67847pt too wide) in paragraph at lines 167--168
+Overfull \hbox (7.67847pt too wide) in paragraph at lines 168--169
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 169--169
 $[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 169--169
 
  []
 
 
-Underfull \hbox (badness 2980) in paragraph at lines 191--192
+Underfull \hbox (badness 2980) in paragraph at lines 192--193
  []\OT1/cmr/m/n/10 Men ask pro-por-tion-ally more ques-tions than
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 209--210
+Underfull \hbox (badness 1715) in paragraph at lines 210--211
 \OT1/cmr/m/n/10 gather data and pro-vided many use-ful sug-ges-tions
  []
 
 No file gender_paper.bbl.
 [4 <./chairs_questions.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 213.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 214.
  (./gender_paper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 213.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 213.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 214.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 214.
 Package rerunfilecheck Info: File `gender_paper.out' has not changed.
 (rerunfilecheck)             Checksum: A798810AD11FE23E11BD69E8ACBE83C3;459.
  ) 
 Here is how much of TeX's memory you used:
  8258 strings out of 493488
- 116108 string characters out of 3141326
+ 116129 string characters out of 3141326
  225998 words of memory out of 3000000
- 11421 multiletter control sequences out of 15000+200000
+ 11419 multiletter control sequences out of 15000+200000
  12838 words of font info for 53 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 42i,7n,32p,1381b,381s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><
-/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><
-/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
-usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
-r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/l
-ocal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/loca
-l/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/t
-exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
-ive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive
-/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
-2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2
-012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/201
-2/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb>
-Output written on gender_paper.pdf (4 pages, 239806 bytes).
+ 42i,7n,32p,1329b,381s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{section.1-footnote.7} has been referenced but doe
+s not exist, replaced by a fixed one
+
+</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></u
+sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></u
+sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/loc
+al/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/
+texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/tex
+live/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texliv
+e/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2
+012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
+12/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/201
+2/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2012/
+texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb>
+Output written on gender_paper.pdf (4 pages, 240857 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
- 163 compressed objects within 2 object streams
- 20 named destinations out of 1000 (max. 500000)
+ 196 PDF objects out of 1000 (max. 8388607)
+ 166 compressed objects within 2 object streams
+ 22 named destinations out of 1000 (max. 500000)
  100 words of extra memory for PDF output out of 10000 (max. 10000000)
 
